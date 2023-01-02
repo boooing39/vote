@@ -1,1 +1,1 @@
-my string
+{image_base64}
