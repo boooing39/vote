@@ -1,1 +1,1 @@
-my stringfzdzdzzzzzzzzzzzzzzzzzzzzzzzzfefefef
+{config_string}
