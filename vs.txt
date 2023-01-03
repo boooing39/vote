@@ -1,1 +1,92 @@
+[1]
+1 = "PC PRINCIPAL"
+2 = "SCUZZLEBUTT"
+lvl = 3
+caps = 0
+ig = #
+
+[2]
+1 = "TOWELIE"
+2 = "ARCHANGEL BRADLEY"
+lvl = 2
+caps = 0
+ig = #
+
+[3]
+1 = "MEDUSA BEBE"
+2 = "INCAN CRAIG"
+lvl = 1
+caps = 0
+ig = #
+
+[4]
+1 = "ANGEL WENDY"
+2 = "GUNSLINGER KYLE"
+lvl = 4
+caps = 0
+ig = #
+
+[5]
+1 = "REGENERATION"
+2 = "LIGHTNING BOLT"
+lvl = 3
+caps = 0
+ig = #
+
+[6]
+1 = "DARK ANGEL RED"
+2 = "WOODLAND CRITTERS"
+lvl = 2
+caps = 0
+ig = #
+
+[7]
+1 = "TERRANCE AND PHILLIP"
+2 = "COW STAMPEDE"
+lvl = 4
+caps = 0
+ig = #
+
+[8]
+1 = "RAT SWARM"
+2 = "BANDITA SALLY"
+lvl = 4
+caps = 0
+ig = #
+
+[9]
+1 = "SANTA CLAUS"
+2 = "BIG MESQUITE MURPH"
+lvl = 2
+caps = 0
+ig = #
+
+[10]
+1 = "HALLELUJAH"
+2 = "FIREBALL"
+lvl = 3
+caps = 0
+ig = #
+
+[11]
+1 = "SCOUT IKE"
+2 = "SMUGGLER IKE"
+lvl = 4
+caps = 0
+ig = #
+
+[12]
+1 = "WITCH DOCTOR TOKEN"
+2 = "STAN OF MANY MOONS"
+lvl = 1
+caps = 0
+ig = #
+
+[image]
+image = image_base64
+
+[choix]
+choix = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 = blank
+2 = blank
 
