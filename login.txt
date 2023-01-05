@@ -20,7 +20,5 @@
     {"id": 0, "username": "NONE", "password": "NONE","team":"NONE"},
     {"id": 0, "username": "NONE", "password": "NONE","team":"NONE"},
     {"id": 0, "username": "NONE", "password": "NONE","team":"NONE"},
-    {"id": 0, "username": "NONE", "password": "NONE","team":"NONE"},
-
-
+    {"id": 0, "username": "NONE", "password": "NONE","team":"NONE"}
 ]
