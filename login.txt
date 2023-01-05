@@ -11,14 +11,5 @@
     {"id": 2652, "username": "bb", "password": "98","team":"BREIZH BALLS"},
     {"id": 3209, "username": "wb", "password": "71","team":"WONG'S BANDE"},
     {"id": 3133, "username": "ru", "password": "89","team":"RUS Team"},
-    {"id": 2652, "username": "bb", "password": "98","team":"BREIZH BALLS"},
-    {"id": 0, "username": "NONE", "password": "NONE","team":"NONE"},
-    {"id": 0, "username": "NONE", "password": "NONE","team":"NONE"},
-    {"id": 0, "username": "NONE", "password": "NONE","team":"NONE"},
-    {"id": 0, "username": "NONE", "password": "NONE","team":"NONE"},
-    {"id": 0, "username": "NONE", "password": "NONE","team":"NONE"},
-    {"id": 0, "username": "NONE", "password": "NONE","team":"NONE"},
-    {"id": 0, "username": "NONE", "password": "NONE","team":"NONE"},
-    {"id": 0, "username": "NONE", "password": "NONE","team":"NONE"},
-    {"id": 0, "username": "NONE", "password": "NONE","team":"NONE"}
+    {"id": 2652, "username": "bb", "password": "98","team":"BREIZH BALLS"}
 ]
