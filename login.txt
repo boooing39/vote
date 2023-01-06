@@ -14,7 +14,7 @@
     {"id": 2652, "username": "bb", "password": "98","team":"BREIZH BALLS"},
     {"id": 3806, "username": "g2", "password": "22","team":"G2LOQ"},
     {"id": 179, "username": "it", "password": "79","team":"ITALIAN TOWELIE"},
-    {"id": 0, "username": "none", "password": "none","team":"none"},
+    {"id": 101, "username": "bt", "password": "11","team":"BELGIQUE TEAMFR"},
     {"id": 0, "username": "none", "password": "none","team":"none"},
     {"id": 0, "username": "none", "password": "none","team":"none"},
     {"id": 0, "username": "none", "password": "none","team":"none"},
