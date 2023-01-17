@@ -20,7 +20,7 @@
     {"id": 35, "username": "cm", "password": "67","team":"CZECH MASTERS"},
     {"id": 336, "username": "mc", "password": "57","team":"MEGACULACCHIONI"},
     {"id": 1613, "username": "ig", "password": "58","team":"ITALIAN TEGRIDY"},
-    {"id": 0, "username": "none", "password": "none","team":"none"},
+    {"id": 1116, "username": "vls", "password": "59","team":"VIVA LA STONERS"},
     {"id": 0, "username": "none", "password": "none","team":"none"},
     {"id": 0, "username": "none", "password": "none","team":"none"},
     {"id": 0, "username": "none", "password": "none","team":"none"},
