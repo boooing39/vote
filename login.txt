@@ -1,5 +1,5 @@
 [
-    {"id": 12, "username": "ff", "password": "88","team":"FRENCH FAMILY", "webhook": "https://discord.com/api/webhooks/1065379600168910889/Tb4JdWGGUASPCuZRrppH2y8GP9_nZfrRXoBM6lKJMhxaFDNOBbQq3O9kK-JOTOE5obM4"},
+    {"id": 12, "username": "ff", "password": "88","team":"FRENCH FAMILY", "webhook": ""},
     {"id": 111, "username": "rd", "password": "63","team":"REDDIT SPPD", "webhook": "none"},
     {"id": 479, "username": "bp", "password": "12","team":"BELGIUM POWER", "webhook": "none"},
     {"id": 3540, "username": "mv", "password": "41","team":"M'VOYEZ!", "webhook": "none"},
