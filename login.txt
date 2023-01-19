@@ -22,7 +22,7 @@
     {"id": 1613, "username": "ig", "password": "58","team":"ITALIAN TEGRIDY", "webhook": "none"},
     {"id": 1116, "username": "vls", "password": "59","team":"VIVA LA STONERS", "webhook": "1065682908976795718/Ol7ZlgL-yWx7_Nys4FHr76M43UDyR9kQTdeeTmuqsFh92jaSF-J9fYzaAbqT_Mxv92w0"},
     {"id": 1569, "username": "bs", "password": "60","team":"BABY STONERS", "webhook": "none"},
-    {"id": 0, "username": "none", "password": "none","team":"none", "webhook": "none"},
+    {"id": 630, "username": "fb", "password": "35","team":"FRENCH BASTARDS", "webhook": "1065774987547512832/fwSXeDKD-OkZwHoukx6RExZoIisNNEZd6Jwy_Wx03dD79nCBvyFPyKDHUPwB61dmy10F"},
     {"id": 0, "username": "none", "password": "none","team":"none", "webhook": "none"},
     {"id": 0, "username": "none", "password": "none","team":"none", "webhook": "none"},
     {"id": 0, "username": "none", "password": "none","team":"none", "webhook": "none"},
