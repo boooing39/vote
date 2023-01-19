@@ -12,7 +12,7 @@
     {"id": 3209, "username": "wb", "password": "71","team":"WONG'S BANDE", "webhook": "none"},
     {"id": 3133, "username": "ru", "password": "89","team":"RUS Team", "webhook": "none"},
     {"id": 2652, "username": "bb", "password": "98","team":"BREIZH BALLS", "webhook": "none"},
-    {"id": 3806, "username": "g2", "password": "22","team":"G2LOQ", "webhook": "none"},
+    {"id": 3806, "username": "g2", "password": "22","team":"G2LOQ", "webhook": "1065632517161496626/dCt48pmNG36OGt4naAjqU2z3XMX7Nf6CQaYR9-Jgny0ZGd4_AkpDvvoa8joT-L734RKa"},
     {"id": 179, "username": "it", "password": "79","team":"ITALIAN TOWELIE", "webhook": "none"},
     {"id": 101, "username": "bt", "password": "11","team":"BELGIQUE TEAMFR", "webhook": "none"},
     {"id": 97, "username": "gc", "password": "28","team":"GO COWS FR", "webhook": "none"},
