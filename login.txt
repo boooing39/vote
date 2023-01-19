@@ -8,7 +8,7 @@
     {"id": 388, "username": "sb", "password": "56","team":"LE SLIP DE BUTTERS", "webhook": "1065675220595261551/XOKTcP92v-F8kfKhYXNVyGEJNhongy3miozUR1D3lVKhM2Ic4o2qJZeHywP9o8P3cQiP"},
     {"id": 73, "username": "mif", "password": "24","team":"MAD IN FRANCE", "webhook": "none"},
     {"id": 902, "username": "tl", "password": "61","team":"TOWELIE LYFE", "webhook": "none"},
-    {"id": 2652, "username": "bb", "password": "98","team":"BREIZH BALLS", "webhook": "none"},
+    {"id": 2652, "username": "bb", "password": "98","team":"BREIZH BALLS", "webhook": "1065727691577372773/XsPHONnbgw0T-0Tt1AekyLEWRkGIvkQ-mFjExFrZdI-sfI1al4obVaaqn9f9GK1JRyTN"},
     {"id": 3209, "username": "wb", "password": "71","team":"WONG'S BANDE", "webhook": "none"},
     {"id": 3133, "username": "ru", "password": "89","team":"ПЛОХАЯКИСА", "webhook": "1065634852742901790/vX1q-_KsSI7FeYmFJpmmzkVnuDbUhVQU6BmV-Ng0z1JM4MHDV4CI5syDWck8aIapb6pT"},
     {"id": 2652, "username": "bb", "password": "98","team":"BREIZH BALLS", "webhook": "none"},
