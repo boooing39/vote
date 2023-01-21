@@ -6,7 +6,7 @@
     {"id": 558, "username": "ft", "password": "38","team":"FRENCH F.T", "webhook": "1065632171303391314/KN1vrPoATnEiL9ZKDk2fA56IyBQ9ZHao4Z7-B2s0gKnokHWs2PARDsOIQWV_mEzDVgHh"},
     {"id": 131, "username": "sp", "password": "74","team":"FRANCE ELITE SP", "webhook": "1065628449324159077/5iVomQHsA6l9GyjpL6QW-0CYngz2_NkCnfwtukTeLhGgyZIZNzCn3SqHlz6DgPUohqpy"},
     {"id": 388, "username": "sb", "password": "56","team":"LE SLIP DE BUTTERS", "webhook": "1065675220595261551/XOKTcP92v-F8kfKhYXNVyGEJNhongy3miozUR1D3lVKhM2Ic4o2qJZeHywP9o8P3cQiP"},
-    {"id": 73, "username": "mif", "password": "24","team":"MAD IN FRANCE", "webhook": "none"},
+    {"id": 73, "username": "mif", "password": "24","team":"MAD IN FRANCE", "webhook": "1066271891066732614/ArFFKfECLrTLLJu02lMvZLDHSVwYOoRoC_AyPLhXEja04So82HkL6eQ296PobsrLJZkt"},
     {"id": 902, "username": "tl", "password": "61","team":"TOWELIE LYFE", "webhook": "none"},
     {"id": 2652, "username": "bb", "password": "98","team":"BREIZH BALLS", "webhook": "1065727691577372773/XsPHONnbgw0T-0Tt1AekyLEWRkGIvkQ-mFjExFrZdI-sfI1al4obVaaqn9f9GK1JRyTN"},
     {"id": 3209, "username": "wb", "password": "71","team":"WONG'S BANDE", "webhook": "none"},
