@@ -1,84 +1,84 @@
 [1]
-1 = "MEMBER BERRIES"
-2 = "CHICKEN COOP"
-lvl = 2
-caps = 0
-ig = #
-
-[2]
-1 = "MEDUSA BEBE"
-2 = "MINT-BERRY CRUNCH"
+1 = "SHIELDMAIDEN WENDY"
+2 = "FULL MOON SPARKY"
 lvl = 1
 caps = 0
 ig = #
 
+[2]
+1 = "BARREL DOUGIE"
+2 = "DWARF ENGINEER DOUGIE"
+lvl = 3
+caps = 0
+ig = #
+
 [3]
-1 = "LAVA!"
-2 = "PURIFY"
+1 = "ASTRONAUT BUTTERS"
+2 = "DECKHAND BUTTERS"
 lvl = 4
 caps = 0
 ig = #
 
 [4]
-1 = "RAT SWARM"
-2 = "SCOUT IKE"
-lvl = 4
+1 = "DOGPOO"
+2 = "CLASSI"
+lvl = 2
 caps = 0
 ig = #
 
 [5]
-1 = "WITCH DOCTOR TOKEN"
-2 = "SHIELDMAIDEN WENDY"
+1 = "DRAGONSLAYER RED"
+2 = "STAN OF MANY MOONS"
 lvl = 1
 caps = 0
 ig = #
 
 [6]
-1 = "STAN THE GREAT"
-2 = "COW STAMPEDE"
+1 = "ARROW TOWER"
+2 = "SUPER FART"
 lvl = 4
 caps = 0
 ig = #
 
 [7]
-1 = "LE BARD JIMMY"
-2 = "TERRANCE AND PHILLIP"
+1 = "OUTLAW TWEEK"
+2 = "ROBIN TWEEK"
 lvl = 4
 caps = 0
 ig = #
 
 [8]
-1 = "WONDER TWEEK"
-2 = "CATAPULT TIMMY"
-lvl = 3
+1 = "A.W.E.S.O.M.-O 4000"
+2 = "THE COON"
+lvl = 2
 caps = 0
 ig = #
 
 [9]
-1 = "CHOIRBOY BUTTERS"
-2 = "PROFESSOR CHAOS"
+1 = "HUMAN KITE"
+2 = "BOUNTY HUNTER KYLE"
 lvl = 2
 caps = 0
 ig = #
 
 [10]
-1 = "PC PRINCIPAL"
-2 = "SCUZZLEBUTT"
+1 = "FIREBALL"
+2 = "CASTLE DEFENDER"
 lvl = 3
 caps = 0
 ig = #
 
 [11]
-1 = "ALTERNATE HUMAN KITE"
-2 = "DARK MAGE CRAIG"
-lvl = 3
+1 = "BLOOD ELF BEBE"
+2 = "ROBO BEBE"
+lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "MR. SLAVE EXECUTIONER"
-2 = "SANTA CLAUS"
-lvl = 2
+1 = "SCUZZLEBUTT"
+2 = "OFFICER BARBRADY"
+lvl = 3
 caps = 0
 ig = #
 
