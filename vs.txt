@@ -1,70 +1,70 @@
 [1]
-1 = "SHIELDMAIDEN WENDY"
-2 = "FULL MOON SPARKY"
-lvl = 1
-caps = 0
-ig = #
-
-[2]
-1 = "BARREL DOUGIE"
-2 = "DWARF ENGINEER DOUGIE"
+1 = "DWARF ENGINEER DOUGIE"
+2 = "BARREL DOUGIE"
 lvl = 3
 caps = 0
 ig = #
 
+[2]
+1 = "STAN OF MANY MOONS"
+2 = "DRAGONSLAYER RED"
+lvl = 1
+caps = 0
+ig = #
+
 [3]
-1 = "ASTRONAUT BUTTERS"
-2 = "DECKHAND BUTTERS"
-lvl = 4
+1 = "FULL MOON SPARKY"
+2 = "SHIELDMAIDEN WENDY"
+lvl = 1
 caps = 0
 ig = #
 
 [4]
+1 = "ROBIN TWEEK"
+2 = "OUTLAW TWEEK"
+lvl = 4
+caps = 0
+ig = #
+
+[5]
+1 = "FIREBALL"
+2 = "CASTLE DEFENDER"
+lvl = 3
+caps = 0
+ig = #
+
+[6]
+1 = "SCUZZLEBUTT"
+2 = "OFFICER BARBRADY"
+lvl = 3
+caps = 0
+ig = #
+
+[7]
 1 = "DOGPOO"
 2 = "CLASSI"
 lvl = 2
 caps = 0
 ig = #
 
-[5]
-1 = "DRAGONSLAYER RED"
-2 = "STAN OF MANY MOONS"
-lvl = 1
-caps = 0
-ig = #
-
-[6]
-1 = "ARROW TOWER"
-2 = "SUPER FART"
-lvl = 4
-caps = 0
-ig = #
-
-[7]
-1 = "OUTLAW TWEEK"
-2 = "ROBIN TWEEK"
-lvl = 4
-caps = 0
-ig = #
-
 [8]
-1 = "A.W.E.S.O.M.-O 4000"
-2 = "THE COON"
-lvl = 2
+1 = "SUPER FART"
+2 = "ARROW TOWER"
+lvl = 4
 caps = 0
 ig = #
 
 [9]
-1 = "HUMAN KITE"
-2 = "BOUNTY HUNTER KYLE"
+1 = "THE COON"
+2 = "A.W.E.S.O.M.-O 4000"
 lvl = 2
 caps = 0
 ig = #
 
 [10]
-1 = "FIREBALL"
-2 = "CASTLE DEFENDER"
-lvl = 3
+1 = "ASTRONAUT BUTTERS"
+2 = "DECKHAND BUTTERS"
+lvl = 4
 caps = 0
 ig = #
 
@@ -76,9 +76,9 @@ caps = 0
 ig = #
 
 [12]
-1 = "SCUZZLEBUTT"
-2 = "OFFICER BARBRADY"
-lvl = 3
+1 = "HUMAN KITE"
+2 = "BOUNTY HUNTER KYLE"
+lvl = 2
 caps = 0
 ig = #
 
