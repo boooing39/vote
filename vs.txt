@@ -1,92 +1,83 @@
 [1]
-1 = "SHERIFF CARTMAN"
-2 = "SHERIFF CARTMAN"
+1 = "INFILTRATOR KEVIN"
+2 = "NATHAN"
 lvl = 3
 caps = 0
 ig = #
 
 [2]
-1 = "SHERIFF CARTMAN"
-2 = "SHERIFF CARTMAN"
-lvl = 3
+1 = "A.W.E.S.O.M.-O 4000"
+2 = "MR. SLAVE EXECUTIONER"
+lvl = 2
 caps = 0
 ig = #
 
 [3]
-1 = "SHERIFF CARTMAN"
-2 = "SHERIFF CARTMAN"
-lvl = 3
+1 = "CYBORG KENNY"
+2 = "HERMES KENNY"
+lvl = 2
 caps = 0
 ig = #
 
 [4]
-1 = "SHERIFF CARTMAN"
-2 = "SHERIFF CARTMAN"
-lvl = 3
+1 = "POPE TIMMY"
+2 = "BOUNTY HUNTER KYLE"
+lvl = 2
 caps = 0
 ig = #
 
 [5]
-1 = "SHERIFF CARTMAN"
-2 = "SHERIFF CARTMAN"
-lvl = 3
+1 = "SHIELDMAIDEN WENDY"
+2 = "WITCH DOCTOR TOKEN"
+lvl = 1
 caps = 0
 ig = #
 
 [6]
-1 = "SHERIFF CARTMAN"
-2 = "SHERIFF CARTMAN"
+1 = "HYPERDRIVE"
+2 = "REGENERATION"
 lvl = 3
 caps = 0
 ig = #
 
 [7]
-1 = "SHERIFF CARTMAN"
-2 = "SHERIFF CARTMAN"
-lvl = 3
+1 = "PALADIN BUTTERS"
+2 = "SCOUT IKE"
+lvl = 4
 caps = 0
 ig = #
 
 [8]
-1 = "SHERIFF CARTMAN"
-2 = "SHERIFF CARTMAN"
-lvl = 3
+1 = "SIXTH ELEMENT RANDY"
+2 = "DRAGONSLAYER RED"
+lvl = 1
 caps = 0
 ig = #
 
 [9]
-1 = "SHERIFF CARTMAN"
-2 = "SHERIFF CARTMAN"
-lvl = 3
+1 = "MIMSY"
+2 = "PRIEST MAXI"
+lvl = 4
 caps = 0
 ig = #
 
 [10]
-1 = "SHERIFF CARTMAN"
-2 = "SHERIFF CARTMAN"
-lvl = 3
+1 = "PURIFY"
+2 = "FREEZE RAY"
+lvl = 4
 caps = 0
 ig = #
 
 [11]
-1 = "SHERIFF CARTMAN"
-2 = "SHERIFF CARTMAN"
+1 = "CUPID CARTMAN"
+2 = "DARK MAGE CRAIG"
 lvl = 3
 caps = 0
 ig = #
 
 [12]
-1 = "SHERIFF CARTMAN"
-2 = "SHERIFF CARTMAN"
-lvl = 3
+1 = "TERRANCE AND PHILLIP"
+2 = "COW STAMPEDE"
+lvl = 4
 caps = 0
 ig = #
-
-[image]
-image = image_base64
-
-[choix]
-choix = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
-1 = blank
-2 = blank
-
