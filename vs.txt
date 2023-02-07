@@ -1,84 +1,84 @@
 [1]
-1 = "SCOUT IKE"
-2 = "PALADIN BUTTERS"
-lvl = 4
-caps = 0
-ig = #
-
-[2]
-1 = "MIMSY"
-2 = "PRIEST MAXI"
-lvl = 4
-caps = 0
-ig = #
-
-[3]
-1 = "POPE TIMMY"
-2 = "BOUNTY HUNTER KYLE"
-lvl = 2
-caps = 0
-ig = #
-
-[4]
-1 = "CUPID CARTMAN"
-2 = "DARK MAGE CRAIG"
+1 = "UNDERPANTS GNOMES"
+2 = "CHAOS HAMSTERS"
 lvl = 3
 caps = 0
 ig = #
 
+[2]
+1 = "CHICKEN COOP"
+2 = "COCK MAGIC"
+lvl = 2
+caps = 0
+ig = #
+
+[3]
+1 = "POSEIDON STAN"
+2 = "LE BARD JIMMY"
+lvl = 4
+caps = 0
+ig = #
+
+[4]
+1 = "FRONTIER BRADLEY"
+2 = "THE AMAZINGLY RANDY"
+lvl = 2
+caps = 0
+ig = #
+
 [5]
-1 = "REGENERATION"
-2 = "HYPERDRIVE"
+1 = "VISITORS"
+2 = "KYLE OF THE DROW ELVES"
 lvl = 3
 caps = 0
 ig = #
 
 [6]
-1 = "SIXTH ELEMENT RANDY"
-2 = "DRAGONSLAYER RED"
-lvl = 1
+1 = "TERRANCE MEPHESTO"
+2 = "CATAPULT TIMMY"
+lvl = 3
 caps = 0
 ig = #
 
 [7]
-1 = "TERRANCE AND PHILLIP"
+1 = "STAN OF MANY MOONS"
+2 = "WITCH DOCTOR TOKEN"
+lvl = 1
+caps = 0
+ig = #
+
+[8]
+1 = "FREEZE RAY"
+2 = "POWER BIND"
+lvl = 4
+caps = 0
+ig = #
+
+[9]
+1 = "PIGEON GANG"
 2 = "COW STAMPEDE"
 lvl = 4
 caps = 0
 ig = #
 
-[8]
-1 = "WITCH DOCTOR TOKEN"
-2 = "SHIELDMAIDEN WENDY"
+[10]
+1 = "FUTURE RANDY"
+2 = "GRAND WIZARD CARTMAN"
 lvl = 1
 caps = 0
 ig = #
 
-[9]
-1 = "CYBORG KENNY"
-2 = "HERMES KENNY"
-lvl = 2
-caps = 0
-ig = #
-
-[10]
-1 = "A.W.E.S.O.M.-O 4000"
-2 = "MR. SLAVE EXECUTIONER"
-lvl = 2
-caps = 0
-ig = #
-
 [11]
-1 = "NATHAN"
-2 = "INFILTRATOR KEVIN"
-lvl = 3
+1 = "PALADIN BUTTERS"
+2 = "RAT SWARM"
+lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "FREEZE RAY"
-2 = "PURIFY"
-lvl = 4
+1 = "MR. SLAVE EXECUTIONER"
+2 = "A.W.E.S.O.M.-O 4000"
+lvl = 2
 caps = 0
 ig = #
 
