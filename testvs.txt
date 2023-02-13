@@ -1,1 +1,92 @@
+[1]
+1 = "SHERIFF CARTMAN"
+2 = "SHERIFF CARTMAN"
+lvl = 3
+caps = 0
+ig = #
+
+[2]
+1 = "SHERIFF CARTMAN"
+2 = "ZEN CARTMAN"
+lvl = 3
+caps = 0
+ig = #
+
+[3]
+1 = "SHERIFF CARTMAN"
+2 = "SHERIFF CARTMAN"
+lvl = 3
+caps = 0
+ig = #
+
+[4]
+1 = "SHERIFF CARTMAN"
+2 = "SHERIFF CARTMAN"
+lvl = 3
+caps = 0
+ig = #
+
+[5]
+1 = "SHERIFF CARTMAN"
+2 = "SHERIFF CARTMAN"
+lvl = 3
+caps = 0
+ig = #
+
+[6]
+1 = "SHERIFF CARTMAN"
+2 = "SHERIFF CARTMAN"
+lvl = 3
+caps = 0
+ig = #
+
+[7]
+1 = "SHERIFF CARTMAN"
+2 = "ZEN CARTMAN"
+lvl = 3
+caps = 0
+ig = #
+
+[8]
+1 = "STAN OF MANY MOONS"
+2 = "PROGRAM STAN"
+lvl = 1
+caps = 0
+ig = #
+
+[9]
+1 = "PROGRAM STAN"
+2 = "PROGRAM STAN"
+lvl = 2
+caps = 0
+ig = #
+
+[10]
+1 = "POSEIDON STAN"
+2 = "POSEIDON STAN"
+lvl = 4
+caps = 0
+ig = #
+
+[11]
+1 = "STAN THE GREAT"
+2 = "TOOLSHED"
+lvl = 4
+caps = 0
+ig = #
+
+[12]
+1 = "STAN THE GREAT"
+2 = "TOOLSHED"
+lvl = 4
+caps = 0
+ig = #
+
+[image]
+image = image_base64
+
+[choix]
+choix = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 = blank
+2 = blank
 
