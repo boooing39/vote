@@ -24,7 +24,7 @@
     {"id": 1569, "username": "bs", "password": "60","team":"BABY STONERS", "webhook": "none"},
     {"id": 630, "username": "fb", "password": "35","team":"FRENCH BASTARDS", "webhook": "1065774987547512832/fwSXeDKD-OkZwHoukx6RExZoIisNNEZd6Jwy_Wx03dD79nCBvyFPyKDHUPwB61dmy10F"},
     {"id": 354, "username": "cp", "password": "68","team":"CZECH PAREK", "webhook": "none"},
-    {"id": 0, "username": "none", "password": "none","team":"none", "webhook": "none"},
+    {"id": 111, "username": "rd", "password": "64","team":"REDDIT SPPD", "webhook": "1081434664436256819/GB89JhOd6pquJgDIdv9xd-ARn74UoKz2ufkJQqxZmgwVl9MEipTPJKyTBu8V1s5Sk1q-"},
     {"id": 0, "username": "none", "password": "none","team":"none", "webhook": "none"},
     {"id": 0, "username": "none", "password": "none","team":"none", "webhook": "none"},
     {"id": 12, "username": "boing", "password": "boing","team":"Admin", "webhook": "916347461717614603/ZYLTvprBna0967XBgrTq-NclbVQQSGeaHWZJOxsPRQqGfcikl0fqB6Xgr0V_2w1PBd7S"},
