@@ -69,7 +69,7 @@ caps = 0
 ig = #
 
 [11]
-1 = "DR. MEPHESTO"
+1 = "DR MEPHESTO"
 2 = "FUTURE RANDY"
 lvl = 1
 caps = 0
