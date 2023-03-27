@@ -1,28 +1,28 @@
 [1]
-1 = "WONDER TWEEK"
-2 = "WARBOY TWEEK"
-lvl = 3
-caps = 0
-ig = #
-
-[2]
-1 = "INUIT KENNY"
-2 = "MR. HANKEY"
-lvl = 1
-caps = 0
-ig = #
-
-[3]
-1 = "MARCUS"
-2 = "HOOKHAND CLYDE"
+1 = "SEXY NUN RANDY"
+2 = "MARY JANE RANDY"
 lvl = 2
 caps = 0
 ig = #
 
+[2]
+1 = "IMP TWEEK"
+2 = "SWASHBUCKLER RED"
+lvl = 2
+caps = 0
+ig = #
+
+[3]
+1 = "MR. HANKEY"
+2 = "INUIT KENNY"
+lvl = 1
+caps = 0
+ig = #
+
 [4]
-1 = "ANGEL WENDY"
-2 = "GUNSLINGER KYLE"
-lvl = 4
+1 = "WONDER TWEEK"
+2 = "WARBOY TWEEK"
+lvl = 3
 caps = 0
 ig = #
 
@@ -34,51 +34,51 @@ caps = 0
 ig = #
 
 [6]
+1 = "HOOKHAND CLYDE"
+2 = "MARCUS"
+lvl = 2
+caps = 0
+ig = #
+
+[7]
+1 = "LAVA!"
+2 = "SUPER FART"
+lvl = 4
+caps = 0
+ig = #
+
+[8]
+1 = "PC PRINCIPAL"
+2 = "ZEN CARTMAN"
+lvl = 3
+caps = 0
+ig = #
+
+[9]
 1 = "MANBEARPIG"
 2 = "S-WOW TITTYBANG"
 lvl = 1
 caps = 0
 ig = #
 
-[7]
-1 = "SUPER FART"
-2 = "LAVA!"
+[10]
+1 = "BLOOD ELF BEBE"
+2 = "ROBO BEBE"
 lvl = 4
 caps = 0
 ig = #
 
-[8]
+[11]
 1 = "SCOUT IKE"
 2 = "RAT SWARM"
 lvl = 4
 caps = 0
 ig = #
 
-[9]
-1 = "SWASHBUCKLER RED"
-2 = "IMP TWEEK"
-lvl = 2
-caps = 0
-ig = #
-
-[10]
-1 = "ROBO BEBE"
-2 = "BLOOD ELF BEBE"
-lvl = 4
-caps = 0
-ig = #
-
-[11]
-1 = "SEXY NUN RANDY"
-2 = "MARY JANE RANDY"
-lvl = 2
-caps = 0
-ig = #
-
 [12]
-1 = "ZEN CARTMAN"
-2 = "PC PRINCIPAL"
-lvl = 3
+1 = "ANGEL WENDY"
+2 = "GUNSLINGER KYLE"
+lvl = 4
 caps = 0
 ig = #
 
