@@ -1,83 +1,83 @@
 [1]
-1 = "BIG GAY AL"
-2 = "MEDICINE WOMAN SHARON"
+1 = "NELLY"
+2 = "HERCULES CLYDE"
 lvl = 3
 caps = 0
 ig = #
 
 [2]
-1 = "ARROWSTORM"
-2 = "COCK MAGIC"
-lvl = 2
-caps = 0
-ig = #
-
-[3]
-1 = "GRAND WIZARD CARTMAN"
-2 = "MANBEARPIG"
-lvl = 1
-caps = 0
-ig = #
-
-[4]
-1 = "STAN THE GREAT"
-2 = "TUPPERWARE"
+1 = "MIMSY"
+2 = "PRIEST MAXI"
 lvl = 4
 caps = 0
 ig = #
 
+[3]
+1 = "BOUNTY HUNTER KYLE"
+2 = "POPE TIMMY"
+lvl = 2
+caps = 0
+ig = #
+
+[4]
+1 = "SIXTH ELEMENT RANDY"
+2 = "STAN OF MANY MOONS"
+lvl = 1
+caps = 0
+ig = #
+
 [5]
-1 = "SMUGGLER IKE"
-2 = "PRINCESS KENNY"
+1 = "POISON"
+2 = "PURIFY"
 lvl = 4
 caps = 0
 ig = #
 
 [6]
-1 = "RAT SWARM"
-2 = "PALADIN BUTTERS"
-lvl = 4
+1 = "OFFICER BARBRADY"
+2 = "HUNTER JIMBO"
+lvl = 3
 caps = 0
 ig = #
 
 [7]
-1 = "SANTA CLAUS"
-2 = "MR. SLAVE EXECUTIONER"
-lvl = 2
+1 = "REGENERATION"
+2 = "HYPERDRIVE"
+lvl = 3
 caps = 0
 ig = #
 
 [8]
-1 = "PIGEON GANG"
-2 = "CALAMITY HEIDI"
+1 = "SCOUT IKE"
+2 = "BANDITA SALLY"
 lvl = 4
 caps = 0
 ig = #
 
 [9]
-1 = "THE AMAZINGLY RANDY"
-2 = "HUMAN KITE"
-lvl = 2
+1 = "ANGEL WENDY"
+2 = "ROBO BEBE"
+lvl = 4
 caps = 0
 ig = #
 
 [10]
-1 = "BUCCANEER BEBE"
-2 = "WONDER TWEEK"
-lvl = 3
+1 = "COMMANDER HAT"
+2 = "WAR HERO NED"
+lvl = 2
 caps = 0
 ig = #
 
 [11]
-1 = "CASTLE DEFENDER"
-2 = "FIREBALL"
-lvl = 3
+1 = "ALIEN DRONE"
+2 = "STORYTELLER JIMMY"
+lvl = 2
 caps = 0
 ig = #
 
 [12]
-1 = "STAN OF MANY MOONS"
-2 = "CHANGELING RED"
+1 = "MR. HANKEY"
+2 = "INUIT KENNY"
 lvl = 1
 caps = 0
 ig = #
