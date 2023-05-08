@@ -1,84 +1,84 @@
 [1]
-1 = "PURIFY"
-2 = "POISON"
-lvl = 4
+1 = "TRANSMOGRIFY"
+2 = "ARROWSTORM"
+lvl = 2
 caps = 0
 ig = #
 
 [2]
-1 = "FIRKLE"
-2 = "RAT SWARM"
-lvl = 4
+1 = "THE AMAZINGLY RANDY"
+2 = "FRONTIER BRADLEY"
+lvl = 2
 caps = 0
 ig = #
 
 [3]
-1 = "PIRATE SHIP TIMMY"
-2 = "ALTERNATE HUMAN KITE"
-lvl = 3
-caps = 0
-ig = #
-
-[4]
-1 = "STAN THE GREAT"
-2 = "FRIAR JIMMY"
+1 = "COW STAMPEDE"
+2 = "TERRANCE AND PHILLIP"
 lvl = 4
 caps = 0
 ig = #
 
-[5]
-1 = "MR. SLAVE EXECUTIONER"
-2 = "BIG MESQUITE MURPH"
+[4]
+1 = "COCK MAGIC"
+2 = "CHICKEN COOP"
 lvl = 2
+caps = 0
+ig = #
+
+[5]
+1 = "PIGEON GANG"
+2 = "CALAMITY HEIDI"
+lvl = 4
 caps = 0
 ig = #
 
 [6]
-1 = "SATAN"
-2 = "INCAN CRAIG"
-lvl = 1
+1 = "GUNSLINGER KYLE"
+2 = "BLOOD ELF BEBE"
+lvl = 4
 caps = 0
 ig = #
 
 [7]
-1 = "PETE"
-2 = "WOODLAND CRITTERS"
-lvl = 2
-caps = 0
-ig = #
-
-[8]
-1 = "WITCH GARRISON"
-2 = "ALIEN QUEEN RED"
+1 = "HUNTER JIMBO"
+2 = "PC PRINCIPAL"
 lvl = 3
 caps = 0
 ig = #
 
+[8]
+1 = "GRAND WIZARD CARTMAN"
+2 = "MANBEARPIG"
+lvl = 1
+caps = 0
+ig = #
+
 [9]
-1 = "MICHAEL"
-2 = "STARVIN' MARVIN"
+1 = "PIRATE SHIP TIMMY"
+2 = "DARK MAGE CRAIG"
 lvl = 3
 caps = 0
 ig = #
 
 [10]
-1 = "HERMES KENNY"
-2 = "PROFESSOR CHAOS"
-lvl = 2
-caps = 0
-ig = #
-
-[11]
-1 = "SUPER FART"
-2 = "FREEZE RAY"
+1 = "RAT SWARM"
+2 = "PALADIN BUTTERS"
 lvl = 4
 caps = 0
 ig = #
 
-[12]
-1 = "HENRIETTA"
-2 = "MANBEARPIG"
+[11]
+1 = "MR. HANKEY"
+2 = "INUIT KENNY"
 lvl = 1
+caps = 0
+ig = #
+
+[12]
+1 = "SWORDSMAN GARRISON"
+2 = "NYMPH NICHOLE"
+lvl = 3
 caps = 0
 ig = #
 
