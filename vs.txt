@@ -1,84 +1,84 @@
 [1]
-1 = "MIMSY"
-2 = "PRIEST MAXI"
-lvl = 4
+1 = "FOUR-ASSED MONKEY"
+2 = "UNDERPANTS GNOMES"
+lvl = 3
 caps = 0
 ig = #
 
 [2]
-1 = "BLOOD ELF BEBE"
-2 = "ROBO BEBE"
-lvl = 4
+1 = "TERRANCE MEPHESTO"
+2 = "CATAPULT TIMMY"
+lvl = 3
 caps = 0
 ig = #
 
 [3]
-1 = "MR. MACKEY"
-2 = "STAN THE GREAT"
-lvl = 4
-caps = 0
-ig = #
-
-[4]
-1 = "SIZZLER STUART"
-2 = "DRAGONSLAYER RED"
+1 = "SATAN"
+2 = "MANBEARPIG"
 lvl = 1
 caps = 0
 ig = #
 
+[4]
+1 = "SCUZZLEBUTT"
+2 = "HUNTER JIMBO"
+lvl = 3
+caps = 0
+ig = #
+
 [5]
-1 = "A.W.E.S.O.M.-O 4000"
-2 = "BIG MESQUITE MURPH"
-lvl = 2
-caps = 0
-ig = #
-
-[6]
-1 = "POWERFIST DOUGIE"
-2 = "BARREL DOUGIE"
-lvl = 3
-caps = 0
-ig = #
-
-[7]
-1 = "ELVEN KING BRADLEY"
-2 = "STARVIN' MARVIN"
-lvl = 3
-caps = 0
-ig = #
-
-[8]
-1 = "POISON"
-2 = "FREEZE RAY"
+1 = "DECKHAND BUTTERS"
+2 = "RAT SWARM"
 lvl = 4
 caps = 0
 ig = #
 
+[6]
+1 = "SUPER FART"
+2 = "POISON"
+lvl = 4
+caps = 0
+ig = #
+
+[7]
+1 = "COCK MAGIC"
+2 = "CHICKEN COOP"
+lvl = 2
+caps = 0
+ig = #
+
+[8]
+1 = "CITY WOK GUY"
+2 = "WAR HERO NED"
+lvl = 2
+caps = 0
+ig = #
+
 [9]
-1 = "REGENERATION"
-2 = "HYPERDRIVE"
-lvl = 3
+1 = "DRAGONSLAYER RED"
+2 = "WITCH DOCTOR TOKEN"
+lvl = 1
 caps = 0
 ig = #
 
 [10]
-1 = "BOUNTY HUNTER KYLE"
-2 = "HUMAN KITE"
+1 = "DOGPOO"
+2 = "PRESIDENT GARRISON"
 lvl = 2
 caps = 0
 ig = #
 
 [11]
-1 = "PROFESSOR CHAOS"
-2 = "CYBORG KENNY"
-lvl = 2
+1 = "COW STAMPEDE"
+2 = "LE BARD JIMMY"
+lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "MECHA TIMMY"
-2 = "INCAN CRAIG"
-lvl = 1
+1 = "GUNSLINGER KYLE"
+2 = "ROBO BEBE"
+lvl = 4
 caps = 0
 ig = #
 
