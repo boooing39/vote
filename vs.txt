@@ -1,83 +1,83 @@
 [1]
-1 = "FOUR-ASSED MONKEY"
-2 = "UNDERPANTS GNOMES"
-lvl = 3
+1 = "TOOLSHED"
+2 = "PROGRAM STAN"
+lvl = 2
 caps = 0
 ig = #
 
 [2]
-1 = "TERRANCE MEPHESTO"
-2 = "CATAPULT TIMMY"
-lvl = 3
-caps = 0
-ig = #
-
-[3]
-1 = "SATAN"
-2 = "MANBEARPIG"
+1 = "INUIT KENNY"
+2 = "MR. HANKEY"
 lvl = 1
 caps = 0
 ig = #
 
-[4]
-1 = "SCUZZLEBUTT"
-2 = "HUNTER JIMBO"
+[3]
+1 = "ZEN CARTMAN"
+2 = "SHERIFF CARTMAN"
 lvl = 3
 caps = 0
 ig = #
 
+[4]
+1 = "TRANSMOGRIFY"
+2 = "ARROWSTORM"
+lvl = 2
+caps = 0
+ig = #
+
 [5]
-1 = "DECKHAND BUTTERS"
-2 = "RAT SWARM"
-lvl = 4
+1 = "ENFORCER JIMMY"
+2 = "SWORDSMAN GARRISON"
+lvl = 3
 caps = 0
 ig = #
 
 [6]
-1 = "SUPER FART"
-2 = "POISON"
+1 = "PALADIN BUTTERS"
+2 = "DECKHAND BUTTERS"
 lvl = 4
 caps = 0
 ig = #
 
 [7]
-1 = "COCK MAGIC"
-2 = "CHICKEN COOP"
-lvl = 2
+1 = "WARBOY TWEEK"
+2 = "OUTLAW TWEEK"
+lvl = 3
 caps = 0
 ig = #
 
 [8]
-1 = "CITY WOK GUY"
-2 = "WAR HERO NED"
+1 = "ROGUE TOKEN"
+2 = "POCAHONTAS RANDY"
 lvl = 2
 caps = 0
 ig = #
 
 [9]
-1 = "DRAGONSLAYER RED"
-2 = "WITCH DOCTOR TOKEN"
+1 = "MEDUSA BEBE"
+2 = "MINT-BERRY CRUNCH"
 lvl = 1
 caps = 0
 ig = #
 
 [10]
-1 = "DOGPOO"
-2 = "PRESIDENT GARRISON"
-lvl = 2
-caps = 0
-ig = #
-
-[11]
-1 = "COW STAMPEDE"
-2 = "LE BARD JIMMY"
+1 = "MIMSY"
+2 = "PRIEST MAXI"
 lvl = 4
 caps = 0
 ig = #
 
+[11]
+1 = "ENERGY STAFF"
+2 = "CASTLE DEFENDER"
+lvl = 3
+caps = 0
+ig = #
+
 [12]
-1 = "GUNSLINGER KYLE"
-2 = "ROBO BEBE"
+1 = "ANGEL WENDY"
+2 = "MARINE CRAIG"
 lvl = 4
 caps = 0
 ig = #
