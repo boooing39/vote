@@ -41,9 +41,9 @@ caps = 0
 ig = #
 
 [7]
-1 = "WARBOY TWEEK"
+1 = "ROBIN TWEEK"
 2 = "OUTLAW TWEEK"
-lvl = 3
+lvl = 4
 caps = 0
 ig = #
 
