@@ -1,84 +1,84 @@
 [1]
-1 = "TOOLSHED"
-2 = "PROGRAM STAN"
-lvl = 2
+1 = "DECKHAND BUTTERS"
+2 = "RAT SWARM"
+lvl = 4
 caps = 0
 ig = #
 
 [2]
-1 = "INUIT KENNY"
-2 = "MR. HANKEY"
+1 = "THE MASTER NINJEW"
+2 = "INCAN CRAIG"
 lvl = 1
 caps = 0
 ig = #
 
 [3]
-1 = "ZEN CARTMAN"
-2 = "SHERIFF CARTMAN"
-lvl = 3
+1 = "HOOKHAND CLYDE"
+2 = "SWASHBUCKLER RED"
+lvl = 2
 caps = 0
 ig = #
 
 [4]
-1 = "TRANSMOGRIFY"
-2 = "ARROWSTORM"
-lvl = 2
-caps = 0
-ig = #
-
-[5]
-1 = "ENFORCER JIMMY"
-2 = "SWORDSMAN GARRISON"
-lvl = 3
-caps = 0
-ig = #
-
-[6]
-1 = "PALADIN BUTTERS"
-2 = "DECKHAND BUTTERS"
-lvl = 4
-caps = 0
-ig = #
-
-[7]
-1 = "ROBIN TWEEK"
-2 = "OUTLAW TWEEK"
-lvl = 4
-caps = 0
-ig = #
-
-[8]
-1 = "ROGUE TOKEN"
-2 = "POCAHONTAS RANDY"
-lvl = 2
-caps = 0
-ig = #
-
-[9]
-1 = "MEDUSA BEBE"
-2 = "MINT-BERRY CRUNCH"
+1 = "MANBEARPIG"
+2 = "SATAN"
 lvl = 1
 caps = 0
 ig = #
 
+[5]
+1 = "A.W.E.S.O.M.-O 4000"
+2 = "BIG MESQUITE MURPH"
+lvl = 2
+caps = 0
+ig = #
+
+[6]
+1 = "BUCCANEER BEBE"
+2 = "PIRATE SHIP TIMMY"
+lvl = 3
+caps = 0
+ig = #
+
+[7]
+1 = "CAPTAIN WENDY"
+2 = "ALTERNATE HUMAN KITE"
+lvl = 3
+caps = 0
+ig = #
+
+[8]
+1 = "LIGHTNING BOLT"
+2 = "MIND CONTROL"
+lvl = 3
+caps = 0
+ig = #
+
+[9]
+1 = "PRINCESS KENNY"
+2 = "SMUGGLER IKE"
+lvl = 4
+caps = 0
+ig = #
+
 [10]
-1 = "MIMSY"
-2 = "PRIEST MAXI"
+1 = "MR. MACKEY"
+2 = "PIGEON GANG"
 lvl = 4
 caps = 0
 ig = #
 
 [11]
-1 = "ENERGY STAFF"
-2 = "CASTLE DEFENDER"
-lvl = 3
+1 = "POSEIDON STAN"
+2 = "CALAMITY HEIDI"
+lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "ANGEL WENDY"
-2 = "MARINE CRAIG"
-lvl = 4
+1 = "COCK MAGIC"
+2 = "ARROWSTORM"
+lvl = 2
 caps = 0
 ig = #
 
