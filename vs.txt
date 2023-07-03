@@ -1,83 +1,83 @@
 [1]
-1 = "FRIAR JIMMY"
-2 = "SUPER CRAIG"
-lvl = 4
-caps = 0
-ig = #
-
-[2]
-1 = "HUMAN KITE"
-2 = "POPE TIMMY"
+1 = "STORYTELLER JIMMY"
+2 = "CLASSI"
 lvl = 2
 caps = 0
 ig = #
 
+[2]
+1 = "HUNTER JIMBO"
+2 = "ZEN CARTMAN"
+lvl = 3
+caps = 0
+ig = #
+
 [3]
-1 = "WITCH DOCTOR TOKEN"
-2 = "CHANGELING RED"
-lvl = 1
+1 = "BIG MESQUITE MURPH"
+2 = "A.W.E.S.O.M.-O 4000"
+lvl = 2
 caps = 0
 ig = #
 
 [4]
-1 = "PROPHET DOUGIE"
-2 = "GENERAL DISARRAY"
+1 = "THE CHOMPER"
+2 = "FIREBALL"
 lvl = 3
 caps = 0
 ig = #
 
 [5]
-1 = "MEDUSA BEBE"
-2 = "CALL GIRL"
-lvl = 1
-caps = 0
-ig = #
-
-[6]
-1 = "THE COON"
-2 = "SANTA CLAUS"
+1 = "WAR HERO NED"
+2 = "COMMANDER HAT"
 lvl = 2
 caps = 0
 ig = #
 
+[6]
+1 = "STAN THE GREAT"
+2 = "CAPTAIN DIABETES"
+lvl = 4
+caps = 0
+ig = #
+
 [7]
-1 = "TUPPERWARE"
-2 = "POSEIDON STAN"
+1 = "PRINCESS KENNY"
+2 = "PALADIN BUTTERS"
 lvl = 4
 caps = 0
 ig = #
 
 [8]
-1 = "LAVA!"
-2 = "POWER BIND"
-lvl = 4
+1 = "MECHA TIMMY"
+2 = "THE MASTER NINJEW"
+lvl = 1
 caps = 0
 ig = #
 
 [9]
-1 = "MIMSY"
-2 = "PRIEST MAXI"
-lvl = 4
+1 = "CHANGELING RED"
+2 = "DRAGONSLAYER RED"
+lvl = 1
 caps = 0
 ig = #
 
 [10]
-1 = "THE CHOMPER"
-2 = "HALLELUJAH"
-lvl = 3
+1 = "BLOOD ELF BEBE"
+2 = "ROBO BEBE"
+lvl = 4
 caps = 0
 ig = #
 
 [11]
-1 = "PROFESSOR CHAOS"
-2 = "CHOIRBOY BUTTERS"
-lvl = 2
+1 = "LAVA!"
+2 = "PURIFY"
+lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "CUPID CARTMAN"
-2 = "ALTERNATE HUMAN KITE"
+1 = "GENERAL DISARRAY"
+2 = "DWARF ENGINEER DOUGIE"
 lvl = 3
 caps = 0
 ig = #
