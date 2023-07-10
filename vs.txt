@@ -1,84 +1,84 @@
 [1]
-1 = "STORYTELLER JIMMY"
-2 = "CLASSI"
-lvl = 2
-caps = 0
-ig = #
-
-[2]
-1 = "HUNTER JIMBO"
-2 = "ZEN CARTMAN"
+1 = "BUCCANEER BEBE"
+2 = "ICE SNIPER WENDY"
 lvl = 3
 caps = 0
 ig = #
 
+[2]
+1 = "HERMES KENNY"
+2 = "GIZMO IKE"
+lvl = 2
+caps = 0
+ig = #
+
 [3]
-1 = "BIG MESQUITE MURPH"
-2 = "A.W.E.S.O.M.-O 4000"
+1 = "A.W.E.S.O.M.-O 4000"
+2 = "BIG MESQUITE MURPH"
 lvl = 2
 caps = 0
 ig = #
 
 [4]
-1 = "THE CHOMPER"
-2 = "FIREBALL"
-lvl = 3
+1 = "SIZZLER STUART"
+2 = "WITCH DOCTOR TOKEN"
+lvl = 1
 caps = 0
 ig = #
 
 [5]
-1 = "WAR HERO NED"
-2 = "COMMANDER HAT"
-lvl = 2
+1 = "MEDICINE WOMAN SHARON"
+2 = "INFILTRATOR KEVIN"
+lvl = 3
 caps = 0
 ig = #
 
 [6]
-1 = "STAN THE GREAT"
-2 = "CAPTAIN DIABETES"
+1 = "PRIEST MAXI"
+2 = "MIMSY"
 lvl = 4
 caps = 0
 ig = #
 
 [7]
-1 = "PRINCESS KENNY"
-2 = "PALADIN BUTTERS"
+1 = "SHAMAN TOKEN"
+2 = "FRIAR JIMMY"
 lvl = 4
 caps = 0
 ig = #
 
 [8]
-1 = "MECHA TIMMY"
-2 = "THE MASTER NINJEW"
-lvl = 1
-caps = 0
-ig = #
-
-[9]
-1 = "CHANGELING RED"
-2 = "DRAGONSLAYER RED"
-lvl = 1
-caps = 0
-ig = #
-
-[10]
-1 = "BLOOD ELF BEBE"
-2 = "ROBO BEBE"
-lvl = 4
-caps = 0
-ig = #
-
-[11]
-1 = "LAVA!"
+1 = "FREEZE RAY"
 2 = "PURIFY"
 lvl = 4
 caps = 0
 ig = #
 
-[12]
-1 = "GENERAL DISARRAY"
-2 = "DWARF ENGINEER DOUGIE"
+[9]
+1 = "SIXTH ELEMENT RANDY"
+2 = "STAN OF MANY MOONS"
+lvl = 1
+caps = 0
+ig = #
+
+[10]
+1 = "BANDITA SALLY"
+2 = "RAT SWARM"
+lvl = 4
+caps = 0
+ig = #
+
+[11]
+1 = "MIND CONTROL"
+2 = "HALLELUJAH"
 lvl = 3
+caps = 0
+ig = #
+
+[12]
+1 = "WAR HERO NED"
+2 = "SPACE PILOT BRADLEY"
+lvl = 2
 caps = 0
 ig = #
 
