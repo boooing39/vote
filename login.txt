@@ -27,5 +27,11 @@
     {"id": 111, "username": "rd", "password": "64","team":"REDDIT SPPD", "webhook": "1081434664436256819/GB89JhOd6pquJgDIdv9xd-ARn74UoKz2ufkJQqxZmgwVl9MEipTPJKyTBu8V1s5Sk1q-"},
     {"id": 2951, "username": "fs", "password": "61","team":"FOETUS STONERS", "webhook": "none"},
     {"id": 38, "username": "ut", "password": "90","team":"UTOUCH", "webhook": "1120410960763555991/U5UwgJHWcWRc8XbVwwT9HB39-0cTI_95N8ZDBcQc9EtnU5D-7oCUbEmkL9mQDDdWJyln"},
-    {"id": 12, "username": "boing", "password": "boing","team":"Admin", "webhook": "916347461717614603/ZYLTvprBna0967XBgrTq-NclbVQQSGeaHWZJOxsPRQqGfcikl0fqB6Xgr0V_2w1PBd7S"},
+    {"id": 0, "username": "blank", "password": "blank","team":"blank", "webhook": ""},
+    {"id": 0, "username": "blank", "password": "blank","team":"blank", "webhook": ""},
+    {"id": 0, "username": "blank", "password": "blank","team":"blank", "webhook": ""},
+    {"id": 0, "username": "blank", "password": "blank","team":"blank", "webhook": ""},
+    {"id": 0, "username": "blank", "password": "blank","team":"blank", "webhook": ""},
+    {"id": 0, "username": "blank", "password": "blank","team":"blank", "webhook": ""},
+    {"id": 12, "username": "boing", "password": "boing","team":"Admin", "webhook": "916347461717614603/ZYLTvprBna0967XBgrTq-NclbVQQSGeaHWZJOxsPRQqGfcikl0fqB6Xgr0V_2w1PBd7S"}
 ]
