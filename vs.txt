@@ -1,84 +1,84 @@
 [1]
-1 = "BUCCANEER BEBE"
-2 = "ICE SNIPER WENDY"
-lvl = 3
+1 = "SUPER FART"
+2 = "POWER BIND"
+lvl = 4
 caps = 0
 ig = #
 
 [2]
-1 = "HERMES KENNY"
-2 = "GIZMO IKE"
+1 = "BOUNTY HUNTER KYLE"
+2 = "THE AMAZINGLY RANDY"
 lvl = 2
 caps = 0
 ig = #
 
 [3]
-1 = "A.W.E.S.O.M.-O 4000"
-2 = "BIG MESQUITE MURPH"
-lvl = 2
+1 = "MYSTERION"
+2 = "INUIT KENNY"
+lvl = 1
 caps = 0
 ig = #
 
 [4]
-1 = "SIZZLER STUART"
-2 = "WITCH DOCTOR TOKEN"
-lvl = 1
+1 = "MR. SLAVE EXECUTIONER"
+2 = "A.W.E.S.O.M.-O 4000"
+lvl = 2
 caps = 0
 ig = #
 
 [5]
-1 = "MEDICINE WOMAN SHARON"
-2 = "INFILTRATOR KEVIN"
-lvl = 3
+1 = "ARROWSTORM"
+2 = "CHICKEN COOP"
+lvl = 2
 caps = 0
 ig = #
 
 [6]
-1 = "PRIEST MAXI"
-2 = "MIMSY"
-lvl = 4
+1 = "SWORDSMAN GARRISON"
+2 = "NYMPH NICHOLE"
+lvl = 3
 caps = 0
 ig = #
 
 [7]
-1 = "SHAMAN TOKEN"
-2 = "FRIAR JIMMY"
-lvl = 4
-caps = 0
-ig = #
-
-[8]
-1 = "FREEZE RAY"
-2 = "PURIFY"
-lvl = 4
-caps = 0
-ig = #
-
-[9]
-1 = "SIXTH ELEMENT RANDY"
-2 = "STAN OF MANY MOONS"
-lvl = 1
-caps = 0
-ig = #
-
-[10]
-1 = "BANDITA SALLY"
+1 = "PALADIN BUTTERS"
 2 = "RAT SWARM"
 lvl = 4
 caps = 0
 ig = #
 
-[11]
-1 = "MIND CONTROL"
-2 = "HALLELUJAH"
+[8]
+1 = "SATAN"
+2 = "MANBEARPIG"
+lvl = 1
+caps = 0
+ig = #
+
+[9]
+1 = "ALIEN QUEEN RED"
+2 = "NELLY"
 lvl = 3
 caps = 0
 ig = #
 
+[10]
+1 = "CATAPULT TIMMY"
+2 = "PIRATE SHIP TIMMY"
+lvl = 3
+caps = 0
+ig = #
+
+[11]
+1 = "BLOOD ELF BEBE"
+2 = "ROBO BEBE"
+lvl = 4
+caps = 0
+ig = #
+
 [12]
-1 = "WAR HERO NED"
-2 = "SPACE PILOT BRADLEY"
-lvl = 2
+1 = "COW STAMPEDE"
+2 = "PIGEON GANG"
+lvl = 4
 caps = 0
 ig = #
 
