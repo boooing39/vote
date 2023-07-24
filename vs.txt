@@ -1,84 +1,84 @@
 [1]
-1 = "SUPER FART"
-2 = "POWER BIND"
-lvl = 4
+1 = "DRAGONSLAYER RED"
+2 = "STAN OF MANY MOONS"
+lvl = 1
 caps = 0
 ig = #
 
 [2]
-1 = "BOUNTY HUNTER KYLE"
-2 = "THE AMAZINGLY RANDY"
+1 = "COMMANDER HAT"
+2 = "FRONTIER BRADLEY"
 lvl = 2
 caps = 0
 ig = #
 
 [3]
-1 = "MYSTERION"
-2 = "INUIT KENNY"
-lvl = 1
+1 = "COW STAMPEDE"
+2 = "PIGEON GANG"
+lvl = 4
 caps = 0
 ig = #
 
 [4]
-1 = "MR. SLAVE EXECUTIONER"
-2 = "A.W.E.S.O.M.-O 4000"
-lvl = 2
+1 = "MIND CONTROL"
+2 = "FIREBALL"
+lvl = 3
 caps = 0
 ig = #
 
 [5]
-1 = "ARROWSTORM"
-2 = "CHICKEN COOP"
-lvl = 2
+1 = "SMUGGLER IKE"
+2 = "SCOUT IKE"
+lvl = 4
 caps = 0
 ig = #
 
 [6]
-1 = "SWORDSMAN GARRISON"
-2 = "NYMPH NICHOLE"
+1 = "KYLE OF THE DROW ELVES"
+2 = "MEDICINE WOMAN SHARON"
 lvl = 3
 caps = 0
 ig = #
 
 [7]
-1 = "PALADIN BUTTERS"
-2 = "RAT SWARM"
-lvl = 4
-caps = 0
-ig = #
-
-[8]
 1 = "SATAN"
 2 = "MANBEARPIG"
 lvl = 1
 caps = 0
 ig = #
 
+[8]
+1 = "SIXTH ELEMENT RANDY"
+2 = "SHIELDMAIDEN WENDY"
+lvl = 1
+caps = 0
+ig = #
+
 [9]
-1 = "ALIEN QUEEN RED"
-2 = "NELLY"
-lvl = 3
+1 = "PALADIN BUTTERS"
+2 = "RAT SWARM"
+lvl = 4
 caps = 0
 ig = #
 
 [10]
-1 = "CATAPULT TIMMY"
-2 = "PIRATE SHIP TIMMY"
-lvl = 3
+1 = "FREEZE RAY"
+2 = "PURIFY"
+lvl = 4
 caps = 0
 ig = #
 
 [11]
 1 = "BLOOD ELF BEBE"
-2 = "ROBO BEBE"
+2 = "ANGEL WENDY"
 lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "COW STAMPEDE"
-2 = "PIGEON GANG"
-lvl = 4
+1 = "PC PRINCIPAL"
+2 = "ZEN CARTMAN"
+lvl = 3
 caps = 0
 ig = #
 
