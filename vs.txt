@@ -1,84 +1,84 @@
 [1]
-1 = "DRAGONSLAYER RED"
-2 = "STAN OF MANY MOONS"
-lvl = 1
-caps = 0
-ig = #
-
-[2]
-1 = "COMMANDER HAT"
-2 = "FRONTIER BRADLEY"
+1 = "WOODLAND CRITTERS"
+2 = "SHARPSHOOTER SHELLY"
 lvl = 2
 caps = 0
 ig = #
 
-[3]
-1 = "COW STAMPEDE"
-2 = "PIGEON GANG"
+[2]
+1 = "LAVA!"
+2 = "SUPER FART"
 lvl = 4
+caps = 0
+ig = #
+
+[3]
+1 = "WAR HERO NED"
+2 = "HUMAN KITE"
+lvl = 2
 caps = 0
 ig = #
 
 [4]
-1 = "MIND CONTROL"
-2 = "FIREBALL"
-lvl = 3
+1 = "THE COON"
+2 = "SANTA CLAUS"
+lvl = 2
 caps = 0
 ig = #
 
 [5]
-1 = "SMUGGLER IKE"
-2 = "SCOUT IKE"
-lvl = 4
-caps = 0
-ig = #
-
-[6]
-1 = "KYLE OF THE DROW ELVES"
-2 = "MEDICINE WOMAN SHARON"
-lvl = 3
-caps = 0
-ig = #
-
-[7]
-1 = "SATAN"
-2 = "MANBEARPIG"
+1 = "CALL GIRL"
+2 = "INCAN CRAIG"
 lvl = 1
 caps = 0
 ig = #
 
+[6]
+1 = "RAT SWARM"
+2 = "BANDITA SALLY"
+lvl = 4
+caps = 0
+ig = #
+
+[7]
+1 = "HUNTER JIMBO"
+2 = "OFFICER BARBRADY"
+lvl = 3
+caps = 0
+ig = #
+
 [8]
-1 = "SIXTH ELEMENT RANDY"
-2 = "SHIELDMAIDEN WENDY"
+1 = "MYSTERION"
+2 = "INUIT KENNY"
 lvl = 1
 caps = 0
 ig = #
 
 [9]
-1 = "PALADIN BUTTERS"
-2 = "RAT SWARM"
+1 = "CAPTAIN DIABETES"
+2 = "CALAMITY HEIDI"
 lvl = 4
 caps = 0
 ig = #
 
 [10]
-1 = "FREEZE RAY"
-2 = "PURIFY"
-lvl = 4
+1 = "FIREBALL"
+2 = "LIGHTNING BOLT"
+lvl = 3
 caps = 0
 ig = #
 
 [11]
-1 = "BLOOD ELF BEBE"
-2 = "ANGEL WENDY"
-lvl = 4
+1 = "MOSQUITO"
+2 = "NELLY"
+lvl = 3
 caps = 0
 ig = #
 
 [12]
-1 = "PC PRINCIPAL"
-2 = "ZEN CARTMAN"
-lvl = 3
+1 = "COW STAMPEDE"
+2 = "TUPPERWARE"
+lvl = 4
 caps = 0
 ig = #
 
