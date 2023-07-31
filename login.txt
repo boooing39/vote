@@ -28,7 +28,7 @@
     {"id": 2951, "username": "fs", "password": "61","team":"FOETUS STONERS", "webhook": "none"},
     {"id": 38, "username": "ut", "password": "90","team":"UTOUCH", "webhook": "1120410960763555991/U5UwgJHWcWRc8XbVwwT9HB39-0cTI_95N8ZDBcQc9EtnU5D-7oCUbEmkL9mQDDdWJyln"},
     {"id": 1, "username": "f2p", "password": "87","team":"f2p whales", "webhook": ""},
-    {"id": 0, "username": "blank", "password": "blank","team":"blank", "webhook": ""},
+    {"id": 6, "username": "me", "password": "87","team":"mercs", "webhook": ""},
     {"id": 0, "username": "blank", "password": "blank","team":"blank", "webhook": ""},
     {"id": 0, "username": "blank", "password": "blank","team":"blank", "webhook": ""},
     {"id": 0, "username": "blank", "password": "blank","team":"blank", "webhook": ""},
