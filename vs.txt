@@ -1,84 +1,84 @@
 [1]
-1 = "WOODLAND CRITTERS"
-2 = "SHARPSHOOTER SHELLY"
-lvl = 2
-caps = 0
-ig = #
-
-[2]
-1 = "LAVA!"
-2 = "SUPER FART"
-lvl = 4
-caps = 0
-ig = #
-
-[3]
-1 = "WAR HERO NED"
-2 = "HUMAN KITE"
-lvl = 2
-caps = 0
-ig = #
-
-[4]
-1 = "THE COON"
-2 = "SANTA CLAUS"
-lvl = 2
-caps = 0
-ig = #
-
-[5]
-1 = "CALL GIRL"
-2 = "INCAN CRAIG"
-lvl = 1
-caps = 0
-ig = #
-
-[6]
-1 = "RAT SWARM"
-2 = "BANDITA SALLY"
-lvl = 4
-caps = 0
-ig = #
-
-[7]
-1 = "HUNTER JIMBO"
-2 = "OFFICER BARBRADY"
+1 = "OFFICER BARBRADY"
+2 = "PC PRINCIPAL"
 lvl = 3
 caps = 0
 ig = #
 
-[8]
+[2]
 1 = "MYSTERION"
 2 = "INUIT KENNY"
 lvl = 1
 caps = 0
 ig = #
 
-[9]
-1 = "CAPTAIN DIABETES"
-2 = "CALAMITY HEIDI"
+[3]
+1 = "FASTPASS"
+2 = "ROGUE TOKEN"
+lvl = 2
+caps = 0
+ig = #
+
+[4]
+1 = "BLOOD ELF BEBE"
+2 = "MARINE CRAIG"
 lvl = 4
 caps = 0
 ig = #
 
-[10]
-1 = "FIREBALL"
-2 = "LIGHTNING BOLT"
+[5]
+1 = "WONDER TWEEK"
+2 = "WARBOY TWEEK"
 lvl = 3
 caps = 0
 ig = #
 
-[11]
-1 = "MOSQUITO"
+[6]
+1 = "ALIEN QUEEN RED"
 2 = "NELLY"
 lvl = 3
 caps = 0
 ig = #
 
-[12]
-1 = "COW STAMPEDE"
-2 = "TUPPERWARE"
+[7]
+1 = "GIZMO IKE"
+2 = "CHOIRBOY BUTTERS"
+lvl = 2
+caps = 0
+ig = #
+
+[8]
+1 = "PURIFY"
+2 = "POISON"
 lvl = 4
+caps = 0
+ig = #
+
+[9]
+1 = "S-WOW TITTYBANG"
+2 = "FUTURE RANDY"
+lvl = 1
+caps = 0
+ig = #
+
+[10]
+1 = "COW STAMPEDE"
+2 = "ALIEN CLYDE"
+lvl = 4
+caps = 0
+ig = #
+
+[11]
+1 = "POWER BIND"
+2 = "SUPER FART"
+lvl = 4
+caps = 0
+ig = #
+
+[12]
+1 = "BOUNTY HUNTER KYLE"
+2 = "SHARPSHOOTER SHELLY"
+lvl = 2
 caps = 0
 ig = #
 
