@@ -1,83 +1,83 @@
 [1]
-1 = "OFFICER BARBRADY"
-2 = "PC PRINCIPAL"
+1 = "CATAPULT TIMMY"
+2 = "PIRATE SHIP TIMMY"
 lvl = 3
 caps = 0
 ig = #
 
 [2]
-1 = "MYSTERION"
-2 = "INUIT KENNY"
-lvl = 1
-caps = 0
-ig = #
-
-[3]
-1 = "FASTPASS"
-2 = "ROGUE TOKEN"
-lvl = 2
-caps = 0
-ig = #
-
-[4]
-1 = "BLOOD ELF BEBE"
-2 = "MARINE CRAIG"
+1 = "ASTRONAUT BUTTERS"
+2 = "DECKHAND BUTTERS"
 lvl = 4
 caps = 0
 ig = #
 
+[3]
+1 = "GRAND WIZARD CARTMAN"
+2 = "MANBEARPIG"
+lvl = 1
+caps = 0
+ig = #
+
+[4]
+1 = "SATAN"
+2 = "MEDUSA BEBE"
+lvl = 1
+caps = 0
+ig = #
+
 [5]
-1 = "WONDER TWEEK"
-2 = "WARBOY TWEEK"
-lvl = 3
+1 = "CHICKEN COOP"
+2 = "MEMBER BERRIES"
+lvl = 2
 caps = 0
 ig = #
 
 [6]
-1 = "ALIEN QUEEN RED"
-2 = "NELLY"
-lvl = 3
+1 = "MARINE CRAIG"
+2 = "ANGEL WENDY"
+lvl = 4
 caps = 0
 ig = #
 
 [7]
-1 = "GIZMO IKE"
-2 = "CHOIRBOY BUTTERS"
+1 = "SANTA CLAUS"
+2 = "MR. SLAVE EXECUTIONER"
 lvl = 2
 caps = 0
 ig = #
 
 [8]
-1 = "PURIFY"
-2 = "POISON"
-lvl = 4
+1 = "WITCH GARRISON"
+2 = "NELLY"
+lvl = 3
 caps = 0
 ig = #
 
 [9]
-1 = "S-WOW TITTYBANG"
-2 = "FUTURE RANDY"
-lvl = 1
+1 = "ALIEN QUEEN RED"
+2 = "NYMPH NICHOLE"
+lvl = 3
 caps = 0
 ig = #
 
 [10]
-1 = "COW STAMPEDE"
-2 = "ALIEN CLYDE"
+1 = "SUPER FART"
+2 = "FREEZE RAY"
 lvl = 4
 caps = 0
 ig = #
 
 [11]
-1 = "POWER BIND"
-2 = "SUPER FART"
+1 = "RAT SWARM"
+2 = "SMUGGLER IKE"
 lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "BOUNTY HUNTER KYLE"
-2 = "SHARPSHOOTER SHELLY"
+1 = "SORCERESS LIANE"
+2 = "ARCHANGEL BRADLEY"
 lvl = 2
 caps = 0
 ig = #
