@@ -1,84 +1,84 @@
 [1]
-1 = "ICE SNIPER WENDY"
-2 = "KYLE OF THE DROW ELVES"
-lvl = 3
-caps = 0
-ig = #
-
-[2]
-1 = "SIZZLER STUART"
-2 = "DRAGONSLAYER RED"
-lvl = 1
-caps = 0
-ig = #
-
-[3]
-1 = "LAVA!"
-2 = "FREEZE RAY"
+1 = "SCOUT IKE"
+2 = "PALADIN BUTTERS"
 lvl = 4
 caps = 0
 ig = #
 
+[2]
+1 = "PRIEST MAXI"
+2 = "MIMSY"
+lvl = 4
+caps = 0
+ig = #
+
+[3]
+1 = "BOUNTY HUNTER KYLE"
+2 = "POPE TIMMY"
+lvl = 2
+caps = 0
+ig = #
+
 [4]
-1 = "MAYOR MCDANIELS"
-2 = "INFILTRATOR KEVIN"
+1 = "CUPID CARTMAN"
+2 = "DARK MAGE CRAIG"
 lvl = 3
 caps = 0
 ig = #
 
 [5]
-1 = "THE COON"
-2 = "A.W.E.S.O.M.-O 4000"
-lvl = 2
+1 = "REGENERATION"
+2 = "HYPERDRIVE"
+lvl = 3
 caps = 0
 ig = #
 
 [6]
-1 = "STAN THE GREAT"
-2 = "PIGEON GANG"
-lvl = 4
+1 = "DRAGONSLAYER RED"
+2 = "SIXTH ELEMENT RANDY"
+lvl = 1
 caps = 0
 ig = #
 
 [7]
-1 = "POISON"
-2 = "SUPER FART"
+1 = "COW STAMPEDE"
+2 = "TERRANCE AND PHILLIP"
 lvl = 4
 caps = 0
 ig = #
 
 [8]
-1 = "SANTA CLAUS"
-2 = "MR. SLAVE EXECUTIONER"
-lvl = 2
-caps = 0
-ig = #
-
-[9]
-1 = "MECHA TIMMY"
-2 = "MINT-BERRY CRUNCH"
+1 = "SHIELDMAIDEN WENDY"
+2 = "WITCH DOCTOR TOKEN"
 lvl = 1
 caps = 0
 ig = #
 
+[9]
+1 = "HERMES KENNY"
+2 = "CYBORG KENNY"
+lvl = 2
+caps = 0
+ig = #
+
 [10]
-1 = "LE BARD JIMMY"
-2 = "TUPPERWARE"
-lvl = 4
+1 = "MR. SLAVE EXECUTIONER"
+2 = "A.W.E.S.O.M.-O 4000"
+lvl = 2
 caps = 0
 ig = #
 
 [11]
-1 = "FOUR-ASSED MONKEY"
-2 = "CHAOS HAMSTERS"
+1 = "NATHAN"
+2 = "INFILTRATOR KEVIN"
 lvl = 3
 caps = 0
 ig = #
 
 [12]
-1 = "PROFESSOR CHAOS"
-2 = "GIZMO IKE"
-lvl = 2
+1 = "PURIFY"
+2 = "FREEZE RAY"
+lvl = 4
 caps = 0
 ig = #
 
