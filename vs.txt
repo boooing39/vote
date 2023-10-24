@@ -1,83 +1,83 @@
 [1]
-1 = "MANBEARPIG"
-2 = "GRAND WIZARD CARTMAN"
-lvl = 1
-caps = 0
-ig = #
-
-[2]
-1 = "DARK MAGE CRAIG"
-2 = "PIRATE SHIP TIMMY"
-lvl = 3
-caps = 0
-ig = #
-
-[3]
-1 = "THE AMAZINGLY RANDY"
-2 = "FRONTIER BRADLEY"
+1 = "MEMBER BERRIES"
+2 = "CHICKEN COOP"
 lvl = 2
 caps = 0
 ig = #
 
+[2]
+1 = "MEDUSA BEBE"
+2 = "MINT-BERRY CRUNCH"
+lvl = 1
+caps = 0
+ig = #
+
+[3]
+1 = "LAVA!"
+2 = "PURIFY"
+lvl = 4
+caps = 0
+ig = #
+
 [4]
-1 = "CALAMITY HEIDI"
-2 = "PIGEON GANG"
+1 = "RAT SWARM"
+2 = "SCOUT IKE"
 lvl = 4
 caps = 0
 ig = #
 
 [5]
-1 = "INUIT KENNY"
-2 = "MR. HANKEY"
+1 = "WITCH DOCTOR TOKEN"
+2 = "SHIELDMAIDEN WENDY"
 lvl = 1
 caps = 0
 ig = #
 
 [6]
-1 = "SWORDSMAN GARRISON"
-2 = "NYMPH NICHOLE"
-lvl = 3
+1 = "STAN THE GREAT"
+2 = "COW STAMPEDE"
+lvl = 4
 caps = 0
 ig = #
 
 [7]
-1 = "HUNTER JIMBO"
-2 = "PC PRINCIPAL"
-lvl = 3
-caps = 0
-ig = #
-
-[8]
-1 = "CHICKEN COOP"
-2 = "COCK MAGIC"
-lvl = 2
-caps = 0
-ig = #
-
-[9]
-1 = "COW STAMPEDE"
+1 = "LE BARD JIMMY"
 2 = "TERRANCE AND PHILLIP"
 lvl = 4
 caps = 0
 ig = #
 
+[8]
+1 = "WONDER TWEEK"
+2 = "CATAPULT TIMMY"
+lvl = 3
+caps = 0
+ig = #
+
+[9]
+1 = "CHOIRBOY BUTTERS"
+2 = "PROFESSOR CHAOS"
+lvl = 2
+caps = 0
+ig = #
+
 [10]
-1 = "RAT SWARM"
-2 = "PALADIN BUTTERS"
-lvl = 4
+1 = "PC PRINCIPAL"
+2 = "SCUZZLEBUTT"
+lvl = 3
 caps = 0
 ig = #
 
 [11]
-1 = "BLOOD ELF BEBE"
-2 = "GUNSLINGER KYLE"
-lvl = 4
+1 = "ALTERNATE HUMAN KITE"
+2 = "DARK MAGE CRAIG"
+lvl = 3
 caps = 0
 ig = #
 
 [12]
-1 = "TRANSMOGRIFY"
-2 = "ARROWSTORM"
+1 = "MR. SLAVE EXECUTIONER"
+2 = "SANTA CLAUS"
 lvl = 2
 caps = 0
 ig = #
