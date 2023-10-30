@@ -1,84 +1,84 @@
 [1]
-1 = "MEMBER BERRIES"
-2 = "CHICKEN COOP"
-lvl = 2
+1 = "ICE SNIPER WENDY"
+2 = "BIG GAY AL"
+lvl = 3
 caps = 0
 ig = #
 
 [2]
-1 = "MEDUSA BEBE"
-2 = "MINT-BERRY CRUNCH"
+1 = "INUIT KENNY"
+2 = "MR. HANKEY"
 lvl = 1
 caps = 0
 ig = #
 
 [3]
-1 = "LAVA!"
-2 = "PURIFY"
-lvl = 4
-caps = 0
-ig = #
-
-[4]
-1 = "RAT SWARM"
-2 = "SCOUT IKE"
-lvl = 4
-caps = 0
-ig = #
-
-[5]
-1 = "WITCH DOCTOR TOKEN"
-2 = "SHIELDMAIDEN WENDY"
-lvl = 1
-caps = 0
-ig = #
-
-[6]
-1 = "STAN THE GREAT"
-2 = "COW STAMPEDE"
-lvl = 4
-caps = 0
-ig = #
-
-[7]
-1 = "LE BARD JIMMY"
-2 = "TERRANCE AND PHILLIP"
-lvl = 4
-caps = 0
-ig = #
-
-[8]
-1 = "WONDER TWEEK"
-2 = "CATAPULT TIMMY"
-lvl = 3
-caps = 0
-ig = #
-
-[9]
-1 = "CHOIRBOY BUTTERS"
-2 = "PROFESSOR CHAOS"
+1 = "POPE TIMMY"
+2 = "WOODLAND CRITTERS"
 lvl = 2
 caps = 0
 ig = #
 
-[10]
-1 = "PC PRINCIPAL"
-2 = "SCUZZLEBUTT"
-lvl = 3
-caps = 0
-ig = #
-
-[11]
-1 = "ALTERNATE HUMAN KITE"
+[4]
+1 = "YOUTH PASTOR CRAIG"
 2 = "DARK MAGE CRAIG"
 lvl = 3
 caps = 0
 ig = #
 
-[12]
-1 = "MR. SLAVE EXECUTIONER"
+[5]
+1 = "SATAN"
+2 = "MANBEARPIG"
+lvl = 1
+caps = 0
+ig = #
+
+[6]
+1 = "PROFESSOR CHAOS"
+2 = "CHOIRBOY BUTTERS"
+lvl = 2
+caps = 0
+ig = #
+
+[7]
+1 = "TUPPERWARE"
+2 = "LE BARD JIMMY"
+lvl = 4
+caps = 0
+ig = #
+
+[8]
+1 = "A.W.E.S.O.M.-O 4000"
 2 = "SANTA CLAUS"
 lvl = 2
+caps = 0
+ig = #
+
+[9]
+1 = "UNHOLY COMBUSTION"
+2 = "MIND CONTROL"
+lvl = 3
+caps = 0
+ig = #
+
+[10]
+1 = "CALAMITY HEIDI"
+2 = "PIGEON GANG"
+lvl = 4
+caps = 0
+ig = #
+
+[11]
+1 = "TERRANCE AND PHILLIP"
+2 = "CAPTAIN DIABETES"
+lvl = 4
+caps = 0
+ig = #
+
+[12]
+1 = "LAVA!"
+2 = "FREEZE RAY"
+lvl = 4
 caps = 0
 ig = #
 
