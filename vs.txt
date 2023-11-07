@@ -34,16 +34,16 @@ caps = 0
 ig = #
 
 [6]
-1 = "RAT SWARM"
-2 = "BANDITA SALLY"
-lvl = 4
+1 = "STAN OF MANY MOONS"
+2 = "SIXTH ELEMENT RANDY"
+lvl = 1
 caps = 0
 ig = #
 
 [7]
-1 = "STAN OF MANY MOONS"
-2 = "SIXTH ELEMENT RANDY"
-lvl = 1
+1 = "RAT SWARM"
+2 = "BANDITA SALLY"
+lvl = 4
 caps = 0
 ig = #
 
