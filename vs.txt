@@ -1,84 +1,84 @@
 [1]
-1 = "POISON"
-2 = "ARROW TOWER"
-lvl = 4
+1 = "HERCULES CLYDE"
+2 = "NELLY"
+lvl = 3
 caps = 0
 ig = #
 
 [2]
-1 = "FRONTIER BRADLEY"
+1 = "PRIEST MAXI"
+2 = "MIMSY"
+lvl = 4
+caps = 0
+ig = #
+
+[3]
+1 = "BOUNTY HUNTER KYLE"
 2 = "POPE TIMMY"
 lvl = 2
 caps = 0
 ig = #
 
-[3]
-1 = "KYLE OF THE DROW ELVES"
-2 = "MEDICINE WOMAN SHARON"
-lvl = 3
-caps = 0
-ig = #
-
 [4]
-1 = "PC PRINCIPAL"
-2 = "SCUZZLEBUTT"
-lvl = 3
-caps = 0
-ig = #
-
-[5]
-1 = "A.W.E.S.O.M.-O 4000"
-2 = "BIG MESQUITE MURPH"
-lvl = 2
-caps = 0
-ig = #
-
-[6]
-1 = "BANDITA SALLY"
-2 = "RAT SWARM"
-lvl = 4
-caps = 0
-ig = #
-
-[7]
-1 = "MEDUSA BEBE"
-2 = "INCAN CRAIG"
+1 = "STAN OF MANY MOONS"
+2 = "SIXTH ELEMENT RANDY"
 lvl = 1
 caps = 0
 ig = #
 
+[5]
+1 = "PURIFY"
+2 = "POISON"
+lvl = 4
+caps = 0
+ig = #
+
+[6]
+1 = "HUNTER JIMBO"
+2 = "OFFICER BARBRADY"
+lvl = 3
+caps = 0
+ig = #
+
+[7]
+1 = "REGENERATION"
+2 = "HYPERDRIVE"
+lvl = 3
+caps = 0
+ig = #
+
 [8]
-1 = "PIGEON GANG"
-2 = "STAN THE GREAT"
+1 = "SCOUT IKE"
+2 = "BANDITA SALLY"
 lvl = 4
 caps = 0
 ig = #
 
 [9]
-1 = "SHIELDMAIDEN WENDY"
-2 = "SIZZLER STUART"
-lvl = 1
-caps = 0
-ig = #
-
-[10]
-1 = "TERRANCE AND PHILLIP"
-2 = "MR. MACKEY"
+1 = "ANGEL WENDY"
+2 = "ROBO BEBE"
 lvl = 4
 caps = 0
 ig = #
 
+[10]
+1 = "WAR HERO NED"
+2 = "COMMANDER HAT"
+lvl = 2
+caps = 0
+ig = #
+
 [11]
-1 = "ENERGY STAFF"
-2 = "CYBORG TOWER"
-lvl = 3
+1 = "STORYTELLER JIMMY"
+2 = "ALIEN DRONE"
+lvl = 2
 caps = 0
 ig = #
 
 [12]
-1 = "PROFESSOR CHAOS"
-2 = "CYBORG KENNY"
-lvl = 2
+1 = "INUIT KENNY"
+2 = "MR. HANKEY"
+lvl = 1
 caps = 0
 ig = #
 
