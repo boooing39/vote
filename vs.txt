@@ -1,84 +1,84 @@
 [1]
-1 = "HERCULES CLYDE"
-2 = "NELLY"
-lvl = 3
-caps = 0
-ig = #
-
-[2]
-1 = "PRIEST MAXI"
-2 = "MIMSY"
-lvl = 4
-caps = 0
-ig = #
-
-[3]
-1 = "BOUNTY HUNTER KYLE"
-2 = "POPE TIMMY"
-lvl = 2
-caps = 0
-ig = #
-
-[4]
-1 = "STAN OF MANY MOONS"
-2 = "SIXTH ELEMENT RANDY"
-lvl = 1
-caps = 0
-ig = #
-
-[5]
-1 = "PURIFY"
-2 = "POISON"
-lvl = 4
-caps = 0
-ig = #
-
-[6]
-1 = "HUNTER JIMBO"
-2 = "OFFICER BARBRADY"
-lvl = 3
-caps = 0
-ig = #
-
-[7]
-1 = "REGENERATION"
-2 = "HYPERDRIVE"
-lvl = 3
-caps = 0
-ig = #
-
-[8]
-1 = "SCOUT IKE"
-2 = "BANDITA SALLY"
-lvl = 4
-caps = 0
-ig = #
-
-[9]
-1 = "ANGEL WENDY"
-2 = "ROBO BEBE"
-lvl = 4
-caps = 0
-ig = #
-
-[10]
-1 = "WAR HERO NED"
-2 = "COMMANDER HAT"
-lvl = 2
-caps = 0
-ig = #
-
-[11]
-1 = "STORYTELLER JIMMY"
+1 = "FASTPASS"
 2 = "ALIEN DRONE"
 lvl = 2
 caps = 0
 ig = #
 
-[12]
-1 = "INUIT KENNY"
+[2]
+1 = "POISON"
+2 = "LAVA!"
+lvl = 4
+caps = 0
+ig = #
+
+[3]
+1 = "SCUZZLEBUTT"
+2 = "PC PRINCIPAL"
+lvl = 3
+caps = 0
+ig = #
+
+[4]
+1 = "TERRANCE AND PHILLIP"
+2 = "SUPER CRAIG"
+lvl = 4
+caps = 0
+ig = #
+
+[5]
+1 = "MYSTERION"
 2 = "MR. HANKEY"
 lvl = 1
+caps = 0
+ig = #
+
+[6]
+1 = "DOCTOR TIMOTHY"
+2 = "ICE SNIPER WENDY"
+lvl = 3
+caps = 0
+ig = #
+
+[7]
+1 = "ALIEN CLYDE"
+2 = "TUPPERWARE"
+lvl = 4
+caps = 0
+ig = #
+
+[8]
+1 = "CALL GIRL"
+2 = "MECHA TIMMY"
+lvl = 1
+caps = 0
+ig = #
+
+[9]
+1 = "CHAOS HAMSTERS"
+2 = "FOUR-ASSED MONKEY"
+lvl = 3
+caps = 0
+ig = #
+
+[10]
+1 = "FREEZE RAY"
+2 = "SUPER FART"
+lvl = 4
+caps = 0
+ig = #
+
+[11]
+1 = "THE COON"
+2 = "A.W.E.S.O.M.-O 4000"
+lvl = 2
+caps = 0
+ig = #
+
+[12]
+1 = "COMMANDER HAT"
+2 = "HUMAN KITE"
+lvl = 2
 caps = 0
 ig = #
 
