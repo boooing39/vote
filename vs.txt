@@ -1,84 +1,84 @@
 [1]
-1 = "FUTURE RANDY"
+1 = "INCAN CRAIG"
 2 = "SATAN"
 lvl = 1
 caps = 0
 ig = #
 
 [2]
-1 = "LAVA!"
+1 = "FREEZE RAY"
 2 = "SUPER FART"
 lvl = 4
 caps = 0
 ig = #
 
 [3]
-1 = "TUPPERWARE"
-2 = "STAN THE GREAT"
-lvl = 4
+1 = "BIG MESQUITE MURPH"
+2 = "MR. SLAVE EXECUTIONER"
+lvl = 2
 caps = 0
 ig = #
 
 [4]
-1 = "NYMPH NICHOLE"
-2 = "NELLY"
+1 = "MICHAEL"
+2 = "STARVIN' MARVIN"
 lvl = 3
 caps = 0
 ig = #
 
 [5]
-1 = "BARREL DOUGIE"
-2 = "DWARF ENGINEER DOUGIE"
+1 = "WITCH GARRISON"
+2 = "ALIEN QUEEN RED"
 lvl = 3
 caps = 0
 ig = #
 
 [6]
-1 = "MINT-BERRY CRUNCH"
-2 = "CALL GIRL"
+1 = "HENRIETTA"
+2 = "MANBEARPIG"
 lvl = 1
 caps = 0
 ig = #
 
 [7]
-1 = "THE COON"
-2 = "SANTA CLAUS"
+1 = "PETE"
+2 = "WOODLAND CRITTERS"
 lvl = 2
 caps = 0
 ig = #
 
 [8]
-1 = "KYLE OF THE DROW ELVES"
-2 = "WONDER TWEEK"
-lvl = 3
+1 = "STAN THE GREAT"
+2 = "FRIAR JIMMY"
+lvl = 4
 caps = 0
 ig = #
 
 [9]
-1 = "SMUGGLER IKE"
-2 = "DECKHAND BUTTERS"
+1 = "PURIFY"
+2 = "POISON"
 lvl = 4
 caps = 0
 ig = #
 
 [10]
-1 = "COW STAMPEDE"
-2 = "SUPER CRAIG"
-lvl = 4
+1 = "PROFESSOR CHAOS"
+2 = "HERMES KENNY"
+lvl = 2
 caps = 0
 ig = #
 
 [11]
-1 = "ARROWSTORM"
-2 = "COCK MAGIC"
-lvl = 2
+1 = "FIRKLE"
+2 = "RAT SWARM"
+lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "THE AMAZINGLY RANDY"
-2 = "WAR HERO NED"
-lvl = 2
+1 = "PIRATE SHIP TIMMY"
+2 = "ALTERNATE HUMAN KITE"
+lvl = 3
 caps = 0
 ig = #
 
