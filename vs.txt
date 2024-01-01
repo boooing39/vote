@@ -1,84 +1,84 @@
 [1]
-1 = "INCAN CRAIG"
-2 = "SATAN"
-lvl = 1
+1 = "CHICKEN COOP"
+2 = "COCK MAGIC"
+lvl = 2
 caps = 0
 ig = #
 
 [2]
-1 = "FREEZE RAY"
-2 = "SUPER FART"
-lvl = 4
+1 = "CATAPULT TIMMY"
+2 = "TERRANCE MEPHESTO"
+lvl = 3
 caps = 0
 ig = #
 
 [3]
-1 = "BIG MESQUITE MURPH"
-2 = "MR. SLAVE EXECUTIONER"
-lvl = 2
+1 = "LE BARD JIMMY"
+2 = "POSEIDON STAN"
+lvl = 4
 caps = 0
 ig = #
 
 [4]
-1 = "MICHAEL"
-2 = "STARVIN' MARVIN"
-lvl = 3
+1 = "POWER BIND"
+2 = "FREEZE RAY"
+lvl = 4
 caps = 0
 ig = #
 
 [5]
-1 = "WITCH GARRISON"
-2 = "ALIEN QUEEN RED"
-lvl = 3
+1 = "COW STAMPEDE"
+2 = "PIGEON GANG"
+lvl = 4
 caps = 0
 ig = #
 
 [6]
-1 = "HENRIETTA"
-2 = "MANBEARPIG"
-lvl = 1
-caps = 0
-ig = #
-
-[7]
-1 = "PETE"
-2 = "WOODLAND CRITTERS"
-lvl = 2
-caps = 0
-ig = #
-
-[8]
-1 = "STAN THE GREAT"
-2 = "FRIAR JIMMY"
-lvl = 4
-caps = 0
-ig = #
-
-[9]
-1 = "PURIFY"
-2 = "POISON"
-lvl = 4
-caps = 0
-ig = #
-
-[10]
-1 = "PROFESSOR CHAOS"
-2 = "HERMES KENNY"
-lvl = 2
-caps = 0
-ig = #
-
-[11]
-1 = "FIRKLE"
+1 = "PALADIN BUTTERS"
 2 = "RAT SWARM"
 lvl = 4
 caps = 0
 ig = #
 
-[12]
-1 = "PIRATE SHIP TIMMY"
-2 = "ALTERNATE HUMAN KITE"
+[7]
+1 = "KYLE OF THE DROW ELVES"
+2 = "VISITORS"
 lvl = 3
+caps = 0
+ig = #
+
+[8]
+1 = "CHAOS HAMSTERS"
+2 = "UNDERPANTS GNOMES"
+lvl = 3
+caps = 0
+ig = #
+
+[9]
+1 = "STAN OF MANY MOONS"
+2 = "WITCH DOCTOR TOKEN"
+lvl = 1
+caps = 0
+ig = #
+
+[10]
+1 = "FRONTIER BRADLEY"
+2 = "THE AMAZINGLY RANDY"
+lvl = 2
+caps = 0
+ig = #
+
+[11]
+1 = "GRAND WIZARD CARTMAN"
+2 = "FUTURE RANDY"
+lvl = 1
+caps = 0
+ig = #
+
+[12]
+1 = "MR. SLAVE EXECUTIONER"
+2 = "A.W.E.S.O.M.-O 4000"
+lvl = 2
 caps = 0
 ig = #
 
