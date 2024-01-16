@@ -1,84 +1,84 @@
 [1]
-1 = "ZEN CARTMAN"
-2 = "SHERIFF CARTMAN"
+1 = "SCUZZLEBUTT"
+2 = "PC PRINCIPAL"
 lvl = 3
 caps = 0
 ig = #
 
 [2]
-1 = "POCAHONTAS RANDY"
-2 = "ROGUE TOKEN"
+1 = "ARCHANGEL BRADLEY"
+2 = "TOWELIE"
 lvl = 2
 caps = 0
 ig = #
 
 [3]
-1 = "ARROWSTORM"
-2 = "TRANSMOGRIFY"
-lvl = 2
-caps = 0
-ig = #
-
-[4]
-1 = "ENFORCER JIMMY"
-2 = "SWORDSMAN GARRISON"
-lvl = 3
-caps = 0
-ig = #
-
-[5]
-1 = "TOOLSHED"
-2 = "PROGRAM STAN"
-lvl = 2
-caps = 0
-ig = #
-
-[6]
-1 = "INUIT KENNY"
-2 = "MR. HANKEY"
-lvl = 1
-caps = 0
-ig = #
-
-[7]
-1 = "ANGEL WENDY"
-2 = "MARINE CRAIG"
-lvl = 4
-caps = 0
-ig = #
-
-[8]
-1 = "ROBIN TWEEK"
-2 = "OUTLAW TWEEK"
-lvl = 4
-caps = 0
-ig = #
-
-[9]
-1 = "PRIEST MAXI"
-2 = "MIMSY"
-lvl = 4
-caps = 0
-ig = #
-
-[10]
-1 = "PALADIN BUTTERS"
-2 = "DECKHAND BUTTERS"
-lvl = 4
-caps = 0
-ig = #
-
-[11]
-1 = "MINT-BERRY CRUNCH"
+1 = "INCAN CRAIG"
 2 = "MEDUSA BEBE"
 lvl = 1
 caps = 0
 ig = #
 
-[12]
-1 = "ENERGY STAFF"
-2 = "CASTLE DEFENDER"
+[4]
+1 = "ANGEL WENDY"
+2 = "GUNSLINGER KYLE"
+lvl = 4
+caps = 0
+ig = #
+
+[5]
+1 = "LIGHTNING BOLT"
+2 = "REGENERATION"
 lvl = 3
+caps = 0
+ig = #
+
+[6]
+1 = "DARK ANGEL RED"
+2 = "WOODLAND CRITTERS"
+lvl = 2
+caps = 0
+ig = #
+
+[7]
+1 = "COW STAMPEDE"
+2 = "TERRANCE AND PHILLIP"
+lvl = 4
+caps = 0
+ig = #
+
+[8]
+1 = "RAT SWARM"
+2 = "BANDITA SALLY"
+lvl = 4
+caps = 0
+ig = #
+
+[9]
+1 = "SANTA CLAUS"
+2 = "BIG MESQUITE MURPH"
+lvl = 2
+caps = 0
+ig = #
+
+[10]
+1 = "FIREBALL"
+2 = "HALLELUJAH"
+lvl = 3
+caps = 0
+ig = #
+
+[11]
+1 = "SCOUT IKE"
+2 = "SMUGGLER IKE"
+lvl = 4
+caps = 0
+ig = #
+
+[12]
+1 = "STAN OF MANY MOONS"
+2 = "WITCH DOCTOR TOKEN"
+lvl = 1
 caps = 0
 ig = #
 
