@@ -1,83 +1,83 @@
 [1]
-1 = "MR. SLAVE EXECUTIONER"
-2 = "THE COON"
-lvl = 2
-caps = 0
-ig = #
-
-[2]
-1 = "GENERAL DISARRAY"
-2 = "DWARF ENGINEER DOUGIE"
+1 = "SPACE WARRIOR TOKEN"
+2 = "DWARF KING CLYDE"
 lvl = 3
 caps = 0
 ig = #
 
+[2]
+1 = "SANTA CLAUS"
+2 = "MR. SLAVE EXECUTIONER"
+lvl = 2
+caps = 0
+ig = #
+
 [3]
-1 = "ROBIN TWEEK"
-2 = "GUNSLINGER KYLE"
-lvl = 4
+1 = "OFFICER BARBRADY"
+2 = "SCUZZLEBUTT"
+lvl = 3
 caps = 0
 ig = #
 
 [4]
-1 = "POSEIDON STAN"
-2 = "SHAMAN TOKEN"
+1 = "ROBIN TWEEK"
+2 = "OUTLAW TWEEK"
 lvl = 4
 caps = 0
 ig = #
 
 [5]
-1 = "S-WOW TITTYBANG"
-2 = "FUTURE RANDY"
-lvl = 1
+1 = "GUNSLINGER KYLE"
+2 = "ROBO BEBE"
+lvl = 4
 caps = 0
 ig = #
 
 [6]
-1 = "BOUNTY HUNTER KYLE"
-2 = "THE AMAZINGLY RANDY"
-lvl = 2
-caps = 0
-ig = #
-
-[7]
-1 = "CHAOS HAMSTERS"
-2 = "UNDERPANTS GNOMES"
-lvl = 3
-caps = 0
-ig = #
-
-[8]
-1 = "REGENERATION"
-2 = "HYPERDRIVE"
-lvl = 3
-caps = 0
-ig = #
-
-[9]
-1 = "SUPER CRAIG"
-2 = "CALAMITY HEIDI"
-lvl = 4
-caps = 0
-ig = #
-
-[10]
-1 = "MINT-BERRY CRUNCH"
-2 = "ALCHEMIST SCOTT"
+1 = "STAN OF MANY MOONS"
+2 = "SHIELDMAIDEN WENDY"
 lvl = 1
 caps = 0
 ig = #
 
-[11]
-1 = "FREEZE RAY"
-2 = "SUPER FART"
+[7]
+1 = "PURIFY"
+2 = "FREEZE RAY"
 lvl = 4
 caps = 0
 ig = #
 
+[8]
+1 = "INUIT KENNY"
+2 = "MR. HANKEY"
+lvl = 1
+caps = 0
+ig = #
+
+[9]
+1 = "CANADIAN KNIGHT IKE"
+2 = "FOUR-ASSED MONKEY"
+lvl = 3
+caps = 0
+ig = #
+
+[10]
+1 = "POISON"
+2 = "LAVA!"
+lvl = 4
+caps = 0
+ig = #
+
+[11]
+1 = "SORCERESS LIANE"
+2 = "CLASSI"
+lvl = 2
+caps = 0
+ig = #
+
 [12]
-1 = "IMP TWEEK"
-2 = "FASTPASS"
+1 = "DARK ANGEL RED"
+2 = "COMMANDER HAT"
 lvl = 2
 caps = 0
 ig = #
