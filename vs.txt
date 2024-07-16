@@ -48,9 +48,9 @@ caps = 0
 ig = #
 
 [8]
-1 = "BIG MESQUITE MURPH"
+1 = "CHAOS HAMSTERS"
 2 = "A.W.E.S.O.M.-O 4000"
-lvl = 2
+lvl = 3
 caps = 0
 ig = #
 
