@@ -1,84 +1,84 @@
 [1]
-1 = "MEDICINE WOMAN SHARON"
-2 = "INFILTRATOR KEVIN"
+1 = "ICE SNIPER WENDY"
+2 = "BIG GAY AL"
 lvl = 3
 caps = 0
 ig = #
 
 [2]
-1 = "PRIEST MAXI"
-2 = "MIMSY"
-lvl = 4
+1 = "INUIT KENNY"
+2 = "MR. HANKEY"
+lvl = 1
 caps = 0
 ig = #
 
 [3]
-1 = "SIZZLER STUART"
-2 = "WITCH DOCTOR TOKEN"
-lvl = 1
+1 = "POPE TIMMY"
+2 = "WOODLAND CRITTERS"
+lvl = 2
 caps = 0
 ig = #
 
 [4]
-1 = "FRIAR JIMMY"
-2 = "SHAMAN TOKEN"
-lvl = 4
-caps = 0
-ig = #
-
-[5]
-1 = "ICE SNIPER WENDY"
-2 = "BUCCANEER BEBE"
+1 = "YOUTH PASTOR CRAIG"
+2 = "DARK MAGE CRAIG"
 lvl = 3
 caps = 0
 ig = #
 
-[6]
-1 = "RAT SWARM"
-2 = "BANDITA SALLY"
-lvl = 4
-caps = 0
-ig = #
-
-[7]
-1 = "STAN OF MANY MOONS"
-2 = "SIXTH ELEMENT RANDY"
+[5]
+1 = "SATAN"
+2 = "MANBEARPIG"
 lvl = 1
 caps = 0
 ig = #
 
+[6]
+1 = "CHOIRBOY BUTTERS"
+2 = "PROFESSOR CHAOS"
+lvl = 2
+caps = 0
+ig = #
+
+[7]
+1 = "TUPPERWARE"
+2 = "LE BARD JIMMY"
+lvl = 4
+caps = 0
+ig = #
+
 [8]
-1 = "WAR HERO NED"
-2 = "SPACE PILOT BRADLEY"
+1 = "A.W.E.S.O.M.-O 4000"
+2 = "SANTA CLAUS"
 lvl = 2
 caps = 0
 ig = #
 
 [9]
-1 = "GIZMO IKE"
-2 = "HERMES KENNY"
-lvl = 2
-caps = 0
-ig = #
-
-[10]
-1 = "HALLELUJAH"
+1 = "UNHOLY COMBUSTION"
 2 = "MIND CONTROL"
 lvl = 3
 caps = 0
 ig = #
 
+[10]
+1 = "CALAMITY HEIDI"
+2 = "PIGEON GANG"
+lvl = 4
+caps = 0
+ig = #
+
 [11]
-1 = "FREEZE RAY"
-2 = "PURIFY"
+1 = "TERRANCE AND PHILLIP"
+2 = "CAPTAIN DIABETES"
 lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "BIG MESQUITE MURPH"
-2 = "A.W.E.S.O.M.-O 4000"
-lvl = 2
+1 = "FREEZE RAY"
+2 = "LAVA!"
+lvl = 4
 caps = 0
 ig = #
 
