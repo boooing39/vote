@@ -1,83 +1,83 @@
 [1]
-1 = "ANGEL WENDY"
-2 = "BLOOD ELF BEBE"
-lvl = 4
-caps = 0
-ig = #
-
-[2]
-1 = "HUNTER JIMBO"
-2 = "ELVEN KING BRADLEY"
+1 = "MAYOR MCDANIELS"
+2 = "INFILTRATOR KEVIN"
 lvl = 3
 caps = 0
 ig = #
 
+[2]
+1 = "A.W.E.S.O.M.-O 4000"
+2 = "THE COON"
+lvl = 2
+caps = 0
+ig = #
+
 [3]
-1 = "VISITORS"
-2 = "TERRANCE MEPHESTO"
+1 = "KYLE OF THE DROW ELVES"
+2 = "ICE SNIPER WENDY"
 lvl = 3
 caps = 0
 ig = #
 
 [4]
-1 = "MARY JANE RANDY"
-2 = "SWASHBUCKLER RED"
-lvl = 2
-caps = 0
-ig = #
-
-[5]
-1 = "POISON"
-2 = "POWER BIND"
-lvl = 4
-caps = 0
-ig = #
-
-[6]
-1 = "IMP TWEEK"
-2 = "PROGRAM STAN"
-lvl = 2
-caps = 0
-ig = #
-
-[7]
 1 = "LE BARD JIMMY"
 2 = "TUPPERWARE"
 lvl = 4
 caps = 0
 ig = #
 
-[8]
-1 = "MIMSY"
+[5]
+1 = "STAN THE GREAT"
 2 = "PIGEON GANG"
 lvl = 4
 caps = 0
 ig = #
 
+[6]
+1 = "FREEZE RAY"
+2 = "LAVA!"
+lvl = 4
+caps = 0
+ig = #
+
+[7]
+1 = "GIZMO IKE"
+2 = "PROFESSOR CHAOS"
+lvl = 2
+caps = 0
+ig = #
+
+[8]
+1 = "SANTA CLAUS"
+2 = "MR. SLAVE EXECUTIONER"
+lvl = 2
+caps = 0
+ig = #
+
 [9]
-1 = "MECHA TIMMY"
-2 = "ALCHEMIST SCOTT"
+1 = "SIZZLER STUART"
+2 = "DRAGONSLAYER RED"
 lvl = 1
 caps = 0
 ig = #
 
 [10]
-1 = "BOUNTY HUNTER KYLE"
-2 = "WAR HERO NED"
-lvl = 2
-caps = 0
-ig = #
-
-[11]
-1 = "FUTURE RANDY"
-2 = "DR MEPHESTO"
+1 = "MINT-BERRY CRUNCH"
+2 = "MECHA TIMMY"
 lvl = 1
 caps = 0
 ig = #
 
+[11]
+1 = "POISON"
+2 = "SUPER FART"
+lvl = 4
+caps = 0
+ig = #
+
 [12]
-1 = "FOUR-ASSED MONKEY"
-2 = "BARREL DOUGIE"
+1 = "CHAOS HAMSTERS"
+2 = "FOUR-ASSED MONKEY"
 lvl = 3
 caps = 0
 ig = #
