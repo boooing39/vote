@@ -1,84 +1,84 @@
 [1]
-1 = "MARY JANE RANDY"
-2 = "SEXY NUN RANDY"
-lvl = 2
+1 = "ZEN CARTMAN"
+2 = "SHERIFF CARTMAN"
+lvl = 3
 caps = 0
 ig = #
 
 [2]
-1 = "IMP TWEEK"
-2 = "SWASHBUCKLER RED"
+1 = "POCAHONTAS RANDY"
+2 = "ROGUE TOKEN"
 lvl = 2
 caps = 0
 ig = #
 
 [3]
+1 = "TRANSMOGRIFY"
+2 = "ARROWSTORM"
+lvl = 2
+caps = 0
+ig = #
+
+[4]
+1 = "ENFORCER JIMMY"
+2 = "SWORDSMAN GARRISON"
+lvl = 3
+caps = 0
+ig = #
+
+[5]
+1 = "TOOLSHED"
+2 = "PROGRAM STAN"
+lvl = 2
+caps = 0
+ig = #
+
+[6]
 1 = "INUIT KENNY"
 2 = "MR. HANKEY"
 lvl = 1
 caps = 0
 ig = #
 
-[4]
-1 = "WARBOY TWEEK"
-2 = "WONDER TWEEK"
-lvl = 3
-caps = 0
-ig = #
-
-[5]
-1 = "HYPERDRIVE"
-2 = "THE CHOMPER"
-lvl = 3
-caps = 0
-ig = #
-
-[6]
-1 = "MARCUS"
-2 = "HOOKHAND CLYDE"
-lvl = 2
-caps = 0
-ig = #
-
 [7]
-1 = "LAVA!"
-2 = "SUPER FART"
+1 = "ANGEL WENDY"
+2 = "MARINE CRAIG"
 lvl = 4
 caps = 0
 ig = #
 
 [8]
-1 = "ZEN CARTMAN"
-2 = "PC PRINCIPAL"
-lvl = 3
+1 = "ROBIN TWEEK"
+2 = "OUTLAW TWEEK"
+lvl = 4
 caps = 0
 ig = #
 
 [9]
-1 = "MANBEARPIG"
-2 = "S-WOW TITTYBANG"
-lvl = 1
+1 = "PRIEST MAXI"
+2 = "MIMSY"
+lvl = 4
 caps = 0
 ig = #
 
 [10]
-1 = "BLOOD ELF BEBE"
-2 = "ROBO BEBE"
+1 = "PALADIN BUTTERS"
+2 = "DECKHAND BUTTERS"
 lvl = 4
 caps = 0
 ig = #
 
 [11]
-1 = "SCOUT IKE"
-2 = "RAT SWARM"
-lvl = 4
+1 = "MINT-BERRY CRUNCH"
+2 = "MEDUSA BEBE"
+lvl = 1
 caps = 0
 ig = #
 
 [12]
-1 = "ANGEL WENDY"
-2 = "GUNSLINGER KYLE"
-lvl = 4
+1 = "CASTLE DEFENDER"
+2 = "ENERGY STAFF"
+lvl = 3
 caps = 0
 ig = #
 
