@@ -1,84 +1,84 @@
 [1]
-1 = "ARROWSTORM"
-2 = "COCK MAGIC"
-lvl = 2
-caps = 0
-ig = #
-
-[2]
-1 = "MINT-BERRY CRUNCH"
-2 = "CALL GIRL"
-lvl = 1
-caps = 0
-ig = #
-
-[3]
-1 = "KYLE OF THE DROW ELVES"
-2 = "WONDER TWEEK"
+1 = "MEDICINE WOMAN SHARON"
+2 = "INFILTRATOR KEVIN"
 lvl = 3
 caps = 0
 ig = #
 
+[2]
+1 = "PRIEST MAXI"
+2 = "MIMSY"
+lvl = 4
+caps = 0
+ig = #
+
+[3]
+1 = "SIZZLER STUART"
+2 = "WITCH DOCTOR TOKEN"
+lvl = 1
+caps = 0
+ig = #
+
 [4]
-1 = "LAVA!"
-2 = "SUPER FART"
+1 = "FRIAR JIMMY"
+2 = "SHAMAN TOKEN"
 lvl = 4
 caps = 0
 ig = #
 
 [5]
-1 = "NYMPH NICHOLE"
-2 = "NELLY"
+1 = "ICE SNIPER WENDY"
+2 = "BUCCANEER BEBE"
 lvl = 3
 caps = 0
 ig = #
 
 [6]
-1 = "DECKHAND BUTTERS"
-2 = "SMUGGLER IKE"
+1 = "RAT SWARM"
+2 = "BANDITA SALLY"
 lvl = 4
 caps = 0
 ig = #
 
 [7]
-1 = "SATAN"
-2 = "FUTURE RANDY"
+1 = "STAN OF MANY MOONS"
+2 = "SIXTH ELEMENT RANDY"
 lvl = 1
 caps = 0
 ig = #
 
 [8]
-1 = "THE AMAZINGLY RANDY"
-2 = "WAR HERO NED"
+1 = "WAR HERO NED"
+2 = "SPACE PILOT BRADLEY"
 lvl = 2
 caps = 0
 ig = #
 
 [9]
-1 = "SANTA CLAUS"
-2 = "THE COON"
+1 = "GIZMO IKE"
+2 = "HERMES KENNY"
 lvl = 2
 caps = 0
 ig = #
 
 [10]
-1 = "COW STAMPEDE"
-2 = "SUPER CRAIG"
-lvl = 4
+1 = "MIND CONTROL"
+2 = "HALLELUJAH"
+lvl = 3
 caps = 0
 ig = #
 
 [11]
-1 = "STAN THE GREAT"
-2 = "TUPPERWARE"
+1 = "FREEZE RAY"
+2 = "PURIFY"
 lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "DWARF ENGINEER DOUGIE"
-2 = "BARREL DOUGIE"
-lvl = 3
+1 = "BIG MESQUITE MURPH"
+2 = "A.W.E.S.O.M.-O 4000"
+lvl = 2
 caps = 0
 ig = #
 
