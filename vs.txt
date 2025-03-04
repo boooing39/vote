@@ -1,84 +1,84 @@
 [1]
-1 = "PRINCESS KENNY"
-2 = "SMUGGLER IKE"
+1 = "PURIFY"
+2 = "LAVA!"
 lvl = 4
 caps = 0
 ig = #
 
 [2]
+1 = "WAR HERO NED"
+2 = "COMMANDER HAT"
+lvl = 2
+caps = 0
+ig = #
+
+[3]
 1 = "BIG MESQUITE MURPH"
 2 = "A.W.E.S.O.M.-O 4000"
 lvl = 2
 caps = 0
 ig = #
 
-[3]
-1 = "PIRATE SHIP TIMMY"
-2 = "BUCCANEER BEBE"
+[4]
+1 = "HUNTER JIMBO"
+2 = "ZEN CARTMAN"
 lvl = 3
 caps = 0
 ig = #
 
-[4]
-1 = "SATAN"
-2 = "MANBEARPIG"
-lvl = 1
-caps = 0
-ig = #
-
 [5]
-1 = "POSEIDON STAN"
-2 = "CALAMITY HEIDI"
-lvl = 4
+1 = "STORYTELLER JIMMY"
+2 = "CLASSI"
+lvl = 2
 caps = 0
 ig = #
 
 [6]
-1 = "MR. MACKEY"
-2 = "PIGEON GANG"
+1 = "STAN THE GREAT"
+2 = "CAPTAIN DIABETES"
 lvl = 4
 caps = 0
 ig = #
 
 [7]
-1 = "MIND CONTROL"
-2 = "LIGHTNING BOLT"
-lvl = 3
+1 = "THE MASTER NINJEW"
+2 = "MECHA TIMMY"
+lvl = 1
 caps = 0
 ig = #
 
 [8]
-1 = "RAT SWARM"
-2 = "DECKHAND BUTTERS"
+1 = "PALADIN BUTTERS"
+2 = "PRINCESS KENNY"
 lvl = 4
 caps = 0
 ig = #
 
 [9]
-1 = "THE MASTER NINJEW"
-2 = "INCAN CRAIG"
-lvl = 1
-caps = 0
-ig = #
-
-[10]
-1 = "HOOKHAND CLYDE"
-2 = "SWASHBUCKLER RED"
-lvl = 2
-caps = 0
-ig = #
-
-[11]
-1 = "CAPTAIN WENDY"
-2 = "ALTERNATE HUMAN KITE"
+1 = "FIREBALL"
+2 = "THE CHOMPER"
 lvl = 3
 caps = 0
 ig = #
 
+[10]
+1 = "GENERAL DISARRAY"
+2 = "DWARF ENGINEER DOUGIE"
+lvl = 3
+caps = 0
+ig = #
+
+[11]
+1 = "BLOOD ELF BEBE"
+2 = "ROBO BEBE"
+lvl = 4
+caps = 0
+ig = #
+
 [12]
-1 = "COCK MAGIC"
-2 = "ARROWSTORM"
-lvl = 2
+1 = "DRAGONSLAYER RED"
+2 = "CHANGELING RED"
+lvl = 1
 caps = 0
 ig = #
 
