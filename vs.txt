@@ -1,84 +1,84 @@
 [1]
-1 = "PURIFY"
-2 = "LAVA!"
-lvl = 4
-caps = 0
-ig = #
-
-[2]
-1 = "WAR HERO NED"
-2 = "COMMANDER HAT"
-lvl = 2
-caps = 0
-ig = #
-
-[3]
-1 = "BIG MESQUITE MURPH"
-2 = "A.W.E.S.O.M.-O 4000"
-lvl = 2
-caps = 0
-ig = #
-
-[4]
-1 = "HUNTER JIMBO"
-2 = "ZEN CARTMAN"
-lvl = 3
-caps = 0
-ig = #
-
-[5]
-1 = "STORYTELLER JIMMY"
-2 = "CLASSI"
-lvl = 2
-caps = 0
-ig = #
-
-[6]
-1 = "STAN THE GREAT"
-2 = "CAPTAIN DIABETES"
-lvl = 4
-caps = 0
-ig = #
-
-[7]
-1 = "THE MASTER NINJEW"
-2 = "MECHA TIMMY"
+1 = "MYSTERION"
+2 = "INUIT KENNY"
 lvl = 1
 caps = 0
 ig = #
 
+[2]
+1 = "CAPTAIN DIABETES"
+2 = "CALAMITY HEIDI"
+lvl = 4
+caps = 0
+ig = #
+
+[3]
+1 = "CALL GIRL"
+2 = "INCAN CRAIG"
+lvl = 1
+caps = 0
+ig = #
+
+[4]
+1 = "RAT SWARM"
+2 = "BANDITA SALLY"
+lvl = 4
+caps = 0
+ig = #
+
+[5]
+1 = "HUNTER JIMBO"
+2 = "OFFICER BARBRADY"
+lvl = 3
+caps = 0
+ig = #
+
+[6]
+1 = "MOSQUITO"
+2 = "NELLY"
+lvl = 3
+caps = 0
+ig = #
+
+[7]
+1 = "FIREBALL"
+2 = "LIGHTNING BOLT"
+lvl = 3
+caps = 0
+ig = #
+
 [8]
-1 = "PALADIN BUTTERS"
-2 = "PRINCESS KENNY"
+1 = "COW STAMPEDE"
+2 = "TUPPERWARE"
 lvl = 4
 caps = 0
 ig = #
 
 [9]
-1 = "FIREBALL"
-2 = "THE CHOMPER"
-lvl = 3
+1 = "SHARPSHOOTER SHELLY"
+2 = "WOODLAND CRITTERS"
+lvl = 2
 caps = 0
 ig = #
 
 [10]
-1 = "GENERAL DISARRAY"
-2 = "DWARF ENGINEER DOUGIE"
-lvl = 3
-caps = 0
-ig = #
-
-[11]
-1 = "BLOOD ELF BEBE"
-2 = "ROBO BEBE"
+1 = "SUPER FART"
+2 = "LAVA!"
 lvl = 4
 caps = 0
 ig = #
 
+[11]
+1 = "WAR HERO NED"
+2 = "HUMAN KITE"
+lvl = 2
+caps = 0
+ig = #
+
 [12]
-1 = "DRAGONSLAYER RED"
-2 = "CHANGELING RED"
-lvl = 1
+1 = "THE COON"
+2 = "SANTA CLAUS"
+lvl = 2
 caps = 0
 ig = #
 
