@@ -1,84 +1,84 @@
 [1]
-1 = "MYSTERION"
-2 = "INUIT KENNY"
-lvl = 1
+1 = "ARROWSTORM"
+2 = "CHICKEN COOP"
+lvl = 2
 caps = 0
 ig = #
 
 [2]
-1 = "CAPTAIN DIABETES"
-2 = "CALAMITY HEIDI"
-lvl = 4
+1 = "INUIT KENNY"
+2 = "MR. HANKEY"
+lvl = 1
 caps = 0
 ig = #
 
 [3]
-1 = "CALL GIRL"
-2 = "INCAN CRAIG"
+1 = "STAN OF MANY MOONS"
+2 = "DRAGONSLAYER RED"
 lvl = 1
 caps = 0
 ig = #
 
 [4]
-1 = "RAT SWARM"
-2 = "BANDITA SALLY"
-lvl = 4
-caps = 0
-ig = #
-
-[5]
-1 = "HUNTER JIMBO"
-2 = "OFFICER BARBRADY"
-lvl = 3
-caps = 0
-ig = #
-
-[6]
-1 = "MOSQUITO"
-2 = "NELLY"
-lvl = 3
-caps = 0
-ig = #
-
-[7]
-1 = "FIREBALL"
+1 = "CASTLE DEFENDER"
 2 = "LIGHTNING BOLT"
 lvl = 3
 caps = 0
 ig = #
 
+[5]
+1 = "BIG MESQUITE MURPH"
+2 = "MR. SLAVE EXECUTIONER"
+lvl = 2
+caps = 0
+ig = #
+
+[6]
+1 = "THE AMAZINGLY RANDY"
+2 = "SHARPSHOOTER SHELLY"
+lvl = 2
+caps = 0
+ig = #
+
+[7]
+1 = "BUCCANEER BEBE"
+2 = "DARK MAGE CRAIG"
+lvl = 3
+caps = 0
+ig = #
+
 [8]
-1 = "COW STAMPEDE"
-2 = "TUPPERWARE"
+1 = "MR. MACKEY"
+2 = "TERRANCE AND PHILLIP"
 lvl = 4
 caps = 0
 ig = #
 
 [9]
-1 = "SHARPSHOOTER SHELLY"
-2 = "WOODLAND CRITTERS"
-lvl = 2
+1 = "LE BARD JIMMY"
+2 = "PIGEON GANG"
+lvl = 4
 caps = 0
 ig = #
 
 [10]
-1 = "SUPER FART"
-2 = "LAVA!"
+1 = "PALADIN BUTTERS"
+2 = "DECKHAND BUTTERS"
 lvl = 4
 caps = 0
 ig = #
 
 [11]
-1 = "WAR HERO NED"
-2 = "HUMAN KITE"
-lvl = 2
+1 = "OFFICER BARBRADY"
+2 = "SHERIFF CARTMAN"
+lvl = 3
 caps = 0
 ig = #
 
 [12]
-1 = "THE COON"
-2 = "SANTA CLAUS"
-lvl = 2
+1 = "ROBIN TWEEK"
+2 = "OUTLAW TWEEK"
+lvl = 4
 caps = 0
 ig = #
 
