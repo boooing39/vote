@@ -1,83 +1,83 @@
 [1]
-1 = "CHICKEN COOP"
-2 = "COCK MAGIC"
+1 = "FASTPASS"
+2 = "ALIEN DRONE"
 lvl = 2
 caps = 0
 ig = #
 
 [2]
-1 = "CATAPULT TIMMY"
-2 = "TERRANCE MEPHESTO"
-lvl = 3
-caps = 0
-ig = #
-
-[3]
-1 = "LE BARD JIMMY"
-2 = "POSEIDON STAN"
+1 = "POISON"
+2 = "LAVA!"
 lvl = 4
 caps = 0
 ig = #
 
+[3]
+1 = "SCUZZLEBUTT"
+2 = "PC PRINCIPAL"
+lvl = 3
+caps = 0
+ig = #
+
 [4]
-1 = "POWER BIND"
-2 = "FREEZE RAY"
+1 = "TERRANCE AND PHILLIP"
+2 = "SUPER CRAIG"
 lvl = 4
 caps = 0
 ig = #
 
 [5]
-1 = "COW STAMPEDE"
-2 = "PIGEON GANG"
-lvl = 4
+1 = "MYSTERION"
+2 = "MR. HANKEY"
+lvl = 1
 caps = 0
 ig = #
 
 [6]
-1 = "PALADIN BUTTERS"
-2 = "RAT SWARM"
-lvl = 4
+1 = "DOCTOR TIMOTHY"
+2 = "ICE SNIPER WENDY"
+lvl = 3
 caps = 0
 ig = #
 
 [7]
-1 = "KYLE OF THE DROW ELVES"
-2 = "VISITORS"
-lvl = 3
+1 = "ALIEN CLYDE"
+2 = "TUPPERWARE"
+lvl = 4
 caps = 0
 ig = #
 
 [8]
-1 = "CHAOS HAMSTERS"
-2 = "UNDERPANTS GNOMES"
-lvl = 3
+1 = "CALL GIRL"
+2 = "MECHA TIMMY"
+lvl = 1
 caps = 0
 ig = #
 
 [9]
-1 = "STAN OF MANY MOONS"
-2 = "WITCH DOCTOR TOKEN"
-lvl = 1
+1 = "CHAOS HAMSTERS"
+2 = "FOUR-ASSED MONKEY"
+lvl = 3
 caps = 0
 ig = #
 
 [10]
-1 = "FRONTIER BRADLEY"
-2 = "THE AMAZINGLY RANDY"
-lvl = 2
+1 = "FREEZE RAY"
+2 = "SUPER FART"
+lvl = 4
 caps = 0
 ig = #
 
 [11]
-1 = "GRAND WIZARD CARTMAN"
-2 = "FUTURE RANDY"
-lvl = 1
+1 = "THE COON"
+2 = "A.W.E.S.O.M.-O 4000"
+lvl = 2
 caps = 0
 ig = #
 
 [12]
-1 = "MR. SLAVE EXECUTIONER"
-2 = "A.W.E.S.O.M.-O 4000"
+1 = "COMMANDER HAT"
+2 = "HUMAN KITE"
 lvl = 2
 caps = 0
 ig = #
