@@ -1,84 +1,84 @@
 [1]
-1 = "SPACE WARRIOR TOKEN"
-2 = "DWARF KING CLYDE"
-lvl = 3
+1 = "ANGEL WENDY"
+2 = "BLOOD ELF BEBE"
+lvl = 4
 caps = 0
 ig = #
 
 [2]
-1 = "SANTA CLAUS"
-2 = "MR. SLAVE EXECUTIONER"
-lvl = 2
+1 = "HUNTER JIMBO"
+2 = "ELVEN KING BRADLEY"
+lvl = 3
 caps = 0
 ig = #
 
 [3]
-1 = "SCUZZLEBUTT"
-2 = "OFFICER BARBRADY"
+1 = "VISITORS"
+2 = "TERRANCE MEPHESTO"
 lvl = 3
 caps = 0
 ig = #
 
 [4]
-1 = "ROBIN TWEEK"
-2 = "OUTLAW TWEEK"
-lvl = 4
+1 = "MARY JANE RANDY"
+2 = "SWASHBUCKLER RED"
+lvl = 2
 caps = 0
 ig = #
 
 [5]
-1 = "GUNSLINGER KYLE"
-2 = "ROBO BEBE"
+1 = "POISON"
+2 = "POWER BIND"
 lvl = 4
 caps = 0
 ig = #
 
 [6]
-1 = "STAN OF MANY MOONS"
-2 = "SHIELDMAIDEN WENDY"
-lvl = 1
+1 = "IMP TWEEK"
+2 = "PROGRAM STAN"
+lvl = 2
 caps = 0
 ig = #
 
 [7]
-1 = "PURIFY"
-2 = "FREEZE RAY"
+1 = "LE BARD JIMMY"
+2 = "TUPPERWARE"
 lvl = 4
 caps = 0
 ig = #
 
 [8]
-1 = "INUIT KENNY"
-2 = "MR. HANKEY"
-lvl = 1
-caps = 0
-ig = #
-
-[9]
-1 = "CANADIAN KNIGHT IKE"
-2 = "FOUR-ASSED MONKEY"
-lvl = 3
-caps = 0
-ig = #
-
-[10]
-1 = "POISON"
-2 = "LAVA!"
+1 = "MIMSY"
+2 = "PIGEON GANG"
 lvl = 4
 caps = 0
 ig = #
 
-[11]
-1 = "SORCERESS LIANE"
-2 = "CLASSI"
+[9]
+1 = "MECHA TIMMY"
+2 = "ALCHEMIST SCOTT"
+lvl = 1
+caps = 0
+ig = #
+
+[10]
+1 = "BOUNTY HUNTER KYLE"
+2 = "WAR HERO NED"
 lvl = 2
 caps = 0
 ig = #
 
+[11]
+1 = "FUTURE RANDY"
+2 = "DR MEPHESTO"
+lvl = 1
+caps = 0
+ig = #
+
 [12]
-1 = "DARK ANGEL RED"
-2 = "COMMANDER HAT"
-lvl = 2
+1 = "FOUR-ASSED MONKEY"
+2 = "BARREL DOUGIE"
+lvl = 3
 caps = 0
 ig = #
 
