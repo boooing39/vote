@@ -1,84 +1,84 @@
 [1]
-1 = "WITCH DOCTOR TOKEN"
-2 = "CHANGELING RED"
-lvl = 1
+1 = "SCUZZLEBUTT"
+2 = "PC PRINCIPAL"
+lvl = 3
 caps = 0
 ig = #
 
 [2]
-1 = "THE COON"
-2 = "SANTA CLAUS"
-lvl = 2
-caps = 0
-ig = #
-
-[3]
-1 = "POSEIDON STAN"
-2 = "TUPPERWARE"
+1 = "POISON"
+2 = "ARROW TOWER"
 lvl = 4
 caps = 0
 ig = #
 
+[3]
+1 = "CYBORG KENNY"
+2 = "PROFESSOR CHAOS"
+lvl = 2
+caps = 0
+ig = #
+
 [4]
-1 = "CUPID CARTMAN"
-2 = "ALTERNATE HUMAN KITE"
+1 = "ENERGY STAFF"
+2 = "CYBORG TOWER"
 lvl = 3
 caps = 0
 ig = #
 
 [5]
-1 = "CALL GIRL"
-2 = "MEDUSA BEBE"
-lvl = 1
+1 = "STAN THE GREAT"
+2 = "PIGEON GANG"
+lvl = 4
 caps = 0
 ig = #
 
 [6]
-1 = "HUMAN KITE"
+1 = "FRONTIER BRADLEY"
 2 = "POPE TIMMY"
 lvl = 2
 caps = 0
 ig = #
 
 [7]
-1 = "GENERAL DISARRAY"
-2 = "PROPHET DOUGIE"
-lvl = 3
+1 = "RAT SWARM"
+2 = "BANDITA SALLY"
+lvl = 4
 caps = 0
 ig = #
 
 [8]
-1 = "FRIAR JIMMY"
-2 = "SUPER CRAIG"
-lvl = 4
+1 = "BIG MESQUITE MURPH"
+2 = "A.W.E.S.O.M.-O 4000"
+lvl = 2
 caps = 0
 ig = #
 
 [9]
-1 = "PRIEST MAXI"
-2 = "MIMSY"
-lvl = 4
+1 = "SIZZLER STUART"
+2 = "SHIELDMAIDEN WENDY"
+lvl = 1
 caps = 0
 ig = #
 
 [10]
-1 = "POWER BIND"
-2 = "LAVA!"
-lvl = 4
+1 = "INCAN CRAIG"
+2 = "MEDUSA BEBE"
+lvl = 1
 caps = 0
 ig = #
 
 [11]
-1 = "HALLELUJAH"
-2 = "THE CHOMPER"
-lvl = 3
+1 = "MR. MACKEY"
+2 = "TERRANCE AND PHILLIP"
+lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "PROFESSOR CHAOS"
-2 = "CHOIRBOY BUTTERS"
-lvl = 2
+1 = "KYLE OF THE DROW ELVES"
+2 = "MEDICINE WOMAN SHARON"
+lvl = 3
 caps = 0
 ig = #
 
