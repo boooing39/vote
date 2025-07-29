@@ -1,49 +1,49 @@
 [1]
-1 = "SCOUT IKE"
-2 = "SMUGGLER IKE"
-lvl = 4
+1 = "SEXY NUN RANDY"
+2 = "MARY JANE RANDY"
+lvl = 2
 caps = 0
 ig = #
 
 [2]
-1 = "BLOOD ELF BEBE"
-2 = "ANGEL WENDY"
-lvl = 4
+1 = "IMP TWEEK"
+2 = "SWASHBUCKLER RED"
+lvl = 2
 caps = 0
 ig = #
 
 [3]
-1 = "COW STAMPEDE"
-2 = "PIGEON GANG"
-lvl = 4
-caps = 0
-ig = #
-
-[4]
-1 = "SATAN"
-2 = "MANBEARPIG"
+1 = "INUIT KENNY"
+2 = "MR. HANKEY"
 lvl = 1
 caps = 0
 ig = #
 
+[4]
+1 = "WARBOY TWEEK"
+2 = "WONDER TWEEK"
+lvl = 3
+caps = 0
+ig = #
+
 [5]
-1 = "FIREBALL"
-2 = "MIND CONTROL"
+1 = "HYPERDRIVE"
+2 = "THE CHOMPER"
 lvl = 3
 caps = 0
 ig = #
 
 [6]
-1 = "FREEZE RAY"
-2 = "PURIFY"
-lvl = 4
+1 = "HOOKHAND CLYDE"
+2 = "MARCUS"
+lvl = 2
 caps = 0
 ig = #
 
 [7]
-1 = "FRONTIER BRADLEY"
-2 = "COMMANDER HAT"
-lvl = 2
+1 = "LAVA!"
+2 = "SUPER FART"
+lvl = 4
 caps = 0
 ig = #
 
@@ -55,30 +55,30 @@ caps = 0
 ig = #
 
 [9]
-1 = "SHIELDMAIDEN WENDY"
-2 = "SIXTH ELEMENT RANDY"
+1 = "MANBEARPIG"
+2 = "S-WOW TITTYBANG"
 lvl = 1
 caps = 0
 ig = #
 
 [10]
-1 = "PALADIN BUTTERS"
-2 = "RAT SWARM"
+1 = "BLOOD ELF BEBE"
+2 = "ROBO BEBE"
 lvl = 4
 caps = 0
 ig = #
 
 [11]
-1 = "KYLE OF THE DROW ELVES"
-2 = "MEDICINE WOMAN SHARON"
-lvl = 3
+1 = "SCOUT IKE"
+2 = "RAT SWARM"
+lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "STAN OF MANY MOONS"
-2 = "DRAGONSLAYER RED"
-lvl = 1
+1 = "ANGEL WENDY"
+2 = "GUNSLINGER KYLE"
+lvl = 4
 caps = 0
 ig = #
 
