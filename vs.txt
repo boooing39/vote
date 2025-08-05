@@ -1,84 +1,84 @@
 [1]
-1 = "SEXY NUN RANDY"
-2 = "MARY JANE RANDY"
+1 = "ARROWSTORM"
+2 = "COCK MAGIC"
 lvl = 2
 caps = 0
 ig = #
 
 [2]
-1 = "IMP TWEEK"
-2 = "SWASHBUCKLER RED"
-lvl = 2
-caps = 0
-ig = #
-
-[3]
-1 = "INUIT KENNY"
-2 = "MR. HANKEY"
+1 = "MINT-BERRY CRUNCH"
+2 = "CALL GIRL"
 lvl = 1
 caps = 0
 ig = #
 
-[4]
-1 = "WARBOY TWEEK"
+[3]
+1 = "KYLE OF THE DROW ELVES"
 2 = "WONDER TWEEK"
 lvl = 3
 caps = 0
 ig = #
 
-[5]
-1 = "HYPERDRIVE"
-2 = "THE CHOMPER"
-lvl = 3
-caps = 0
-ig = #
-
-[6]
-1 = "HOOKHAND CLYDE"
-2 = "MARCUS"
-lvl = 2
-caps = 0
-ig = #
-
-[7]
+[4]
 1 = "LAVA!"
 2 = "SUPER FART"
 lvl = 4
 caps = 0
 ig = #
 
-[8]
-1 = "ZEN CARTMAN"
-2 = "PC PRINCIPAL"
+[5]
+1 = "NYMPH NICHOLE"
+2 = "NELLY"
 lvl = 3
 caps = 0
 ig = #
 
-[9]
-1 = "MANBEARPIG"
-2 = "S-WOW TITTYBANG"
+[6]
+1 = "SMUGGLER IKE"
+2 = "DECKHAND BUTTERS"
+lvl = 4
+caps = 0
+ig = #
+
+[7]
+1 = "SATAN"
+2 = "FUTURE RANDY"
 lvl = 1
 caps = 0
 ig = #
 
+[8]
+1 = "THE AMAZINGLY RANDY"
+2 = "WAR HERO NED"
+lvl = 2
+caps = 0
+ig = #
+
+[9]
+1 = "SANTA CLAUS"
+2 = "THE COON"
+lvl = 2
+caps = 0
+ig = #
+
 [10]
-1 = "BLOOD ELF BEBE"
-2 = "ROBO BEBE"
+1 = "COW STAMPEDE"
+2 = "SUPER CRAIG"
 lvl = 4
 caps = 0
 ig = #
 
 [11]
-1 = "SCOUT IKE"
-2 = "RAT SWARM"
+1 = "STAN THE GREAT"
+2 = "TUPPERWARE"
 lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "ANGEL WENDY"
-2 = "GUNSLINGER KYLE"
-lvl = 4
+1 = "DWARF ENGINEER DOUGIE"
+2 = "BARREL DOUGIE"
+lvl = 3
 caps = 0
 ig = #
 
