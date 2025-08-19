@@ -1,84 +1,84 @@
 [1]
-1 = "PIRATE SHIP TIMMY"
-2 = "CATAPULT TIMMY"
+1 = "SPACE WARRIOR TOKEN"
+2 = "DWARF KING CLYDE"
 lvl = 3
 caps = 0
 ig = #
 
 [2]
-1 = "BOUNTY HUNTER KYLE"
-2 = "THE AMAZINGLY RANDY"
+1 = "SANTA CLAUS"
+2 = "MR. SLAVE EXECUTIONER"
 lvl = 2
 caps = 0
 ig = #
 
 [3]
-1 = "COW STAMPEDE"
-2 = "PIGEON GANG"
-lvl = 4
-caps = 0
-ig = #
-
-[4]
-1 = "ARROWSTORM"
-2 = "CHICKEN COOP"
-lvl = 2
-caps = 0
-ig = #
-
-[5]
-1 = "MR. SLAVE EXECUTIONER"
-2 = "A.W.E.S.O.M.-O 4000"
-lvl = 2
-caps = 0
-ig = #
-
-[6]
-1 = "MYSTERION"
-2 = "INUIT KENNY"
-lvl = 1
-caps = 0
-ig = #
-
-[7]
-1 = "SATAN"
-2 = "MANBEARPIG"
-lvl = 1
-caps = 0
-ig = #
-
-[8]
-1 = "ALIEN QUEEN RED"
-2 = "NELLY"
+1 = "OFFICER BARBRADY"
+2 = "SCUZZLEBUTT"
 lvl = 3
 caps = 0
 ig = #
 
-[9]
-1 = "SUPER FART"
-2 = "POWER BIND"
+[4]
+1 = "ROBIN TWEEK"
+2 = "OUTLAW TWEEK"
 lvl = 4
 caps = 0
 ig = #
 
-[10]
-1 = "BLOOD ELF BEBE"
+[5]
+1 = "GUNSLINGER KYLE"
 2 = "ROBO BEBE"
 lvl = 4
 caps = 0
 ig = #
 
-[11]
-1 = "PALADIN BUTTERS"
-2 = "RAT SWARM"
+[6]
+1 = "STAN OF MANY MOONS"
+2 = "SHIELDMAIDEN WENDY"
+lvl = 1
+caps = 0
+ig = #
+
+[7]
+1 = "PURIFY"
+2 = "FREEZE RAY"
 lvl = 4
 caps = 0
 ig = #
 
-[12]
-1 = "SWORDSMAN GARRISON"
-2 = "NYMPH NICHOLE"
+[8]
+1 = "INUIT KENNY"
+2 = "MR. HANKEY"
+lvl = 1
+caps = 0
+ig = #
+
+[9]
+1 = "CANADIAN KNIGHT IKE"
+2 = "FOUR-ASSED MONKEY"
 lvl = 3
+caps = 0
+ig = #
+
+[10]
+1 = "POISON"
+2 = "LAVA!"
+lvl = 4
+caps = 0
+ig = #
+
+[11]
+1 = "SORCERESS LIANE"
+2 = "CLASSI"
+lvl = 2
+caps = 0
+ig = #
+
+[12]
+1 = "DARK ANGEL RED"
+2 = "COMMANDER HAT"
+lvl = 2
 caps = 0
 ig = #
 
