@@ -1,84 +1,84 @@
 [1]
-1 = "DWARF ENGINEER DOUGIE"
-2 = "BARREL DOUGIE"
-lvl = 3
+1 = "GRAND WIZARD CARTMAN"
+2 = "MANBEARPIG"
+lvl = 1
 caps = 0
 ig = #
 
 [2]
-1 = "STAN OF MANY MOONS"
-2 = "DRAGONSLAYER RED"
-lvl = 1
+1 = "SORCERESS LIANE"
+2 = "ARCHANGEL BRADLEY"
+lvl = 2
 caps = 0
 ig = #
 
 [3]
-1 = "FULL MOON SPARKY"
-2 = "SHIELDMAIDEN WENDY"
-lvl = 1
+1 = "RAT SWARM"
+2 = "SMUGGLER IKE"
+lvl = 4
 caps = 0
 ig = #
 
 [4]
-1 = "ROBIN TWEEK"
-2 = "OUTLAW TWEEK"
+1 = "SUPER FART"
+2 = "FREEZE RAY"
 lvl = 4
 caps = 0
 ig = #
 
 [5]
-1 = "CASTLE DEFENDER"
-2 = "FIREBALL"
+1 = "PIRATE SHIP TIMMY"
+2 = "CATAPULT TIMMY"
 lvl = 3
 caps = 0
 ig = #
 
 [6]
-1 = "SCUZZLEBUTT"
-2 = "OFFICER BARBRADY"
-lvl = 3
+1 = "MR. SLAVE EXECUTIONER"
+2 = "SANTA CLAUS"
+lvl = 2
 caps = 0
 ig = #
 
 [7]
-1 = "CLASSI"
-2 = "DOGPOO"
-lvl = 2
-caps = 0
-ig = #
-
-[8]
-1 = "ARROW TOWER"
-2 = "SUPER FART"
+1 = "ANGEL WENDY"
+2 = "MARINE CRAIG"
 lvl = 4
 caps = 0
 ig = #
 
-[9]
-1 = "A.W.E.S.O.M.-O 4000"
-2 = "THE COON"
-lvl = 2
-caps = 0
-ig = #
-
-[10]
+[8]
 1 = "DECKHAND BUTTERS"
 2 = "ASTRONAUT BUTTERS"
 lvl = 4
 caps = 0
 ig = #
 
+[9]
+1 = "MEDUSA BEBE"
+2 = "SATAN"
+lvl = 1
+caps = 0
+ig = #
+
+[10]
+1 = "CHICKEN COOP"
+2 = "MEMBER BERRIES"
+lvl = 2
+caps = 0
+ig = #
+
 [11]
-1 = "BLOOD ELF BEBE"
-2 = "ROBO BEBE"
-lvl = 4
+1 = "NYMPH NICHOLE"
+2 = "ALIEN QUEEN RED"
+lvl = 3
 caps = 0
 ig = #
 
 [12]
-1 = "BOUNTY HUNTER KYLE"
-2 = "HUMAN KITE"
-lvl = 2
+1 = "WITCH GARRISON"
+2 = "NELLY"
+lvl = 3
 caps = 0
 ig = #
 
