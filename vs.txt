@@ -1,84 +1,84 @@
 [1]
-1 = "OFFICER BARBRADY"
-2 = "PC PRINCIPAL"
-lvl = 3
+1 = "PURIFY"
+2 = "LAVA!"
+lvl = 4
 caps = 0
 ig = #
 
 [2]
-1 = "MYSTERION"
-2 = "INUIT KENNY"
-lvl = 1
+1 = "WAR HERO NED"
+2 = "COMMANDER HAT"
+lvl = 2
 caps = 0
 ig = #
 
 [3]
-1 = "FASTPASS"
-2 = "ROGUE TOKEN"
+1 = "BIG MESQUITE MURPH"
+2 = "A.W.E.S.O.M.-O 4000"
 lvl = 2
 caps = 0
 ig = #
 
 [4]
-1 = "BLOOD ELF BEBE"
-2 = "MARINE CRAIG"
-lvl = 4
+1 = "HUNTER JIMBO"
+2 = "ZEN CARTMAN"
+lvl = 3
 caps = 0
 ig = #
 
 [5]
-1 = "WARBOY TWEEK"
-2 = "WONDER TWEEK"
-lvl = 3
-caps = 0
-ig = #
-
-[6]
-1 = "ALIEN QUEEN RED"
-2 = "NELLY"
-lvl = 3
-caps = 0
-ig = #
-
-[7]
-1 = "GIZMO IKE"
-2 = "CHOIRBOY BUTTERS"
+1 = "STORYTELLER JIMMY"
+2 = "CLASSI"
 lvl = 2
 caps = 0
 ig = #
 
+[6]
+1 = "STAN THE GREAT"
+2 = "CAPTAIN DIABETES"
+lvl = 4
+caps = 0
+ig = #
+
+[7]
+1 = "THE MASTER NINJEW"
+2 = "MECHA TIMMY"
+lvl = 1
+caps = 0
+ig = #
+
 [8]
-1 = "PURIFY"
-2 = "POISON"
+1 = "PALADIN BUTTERS"
+2 = "PRINCESS KENNY"
 lvl = 4
 caps = 0
 ig = #
 
 [9]
-1 = "S-WOW TITTYBANG"
-2 = "FUTURE RANDY"
-lvl = 1
+1 = "FIREBALL"
+2 = "THE CHOMPER"
+lvl = 3
 caps = 0
 ig = #
 
 [10]
-1 = "COW STAMPEDE"
-2 = "ALIEN CLYDE"
-lvl = 4
+1 = "GENERAL DISARRAY"
+2 = "DWARF ENGINEER DOUGIE"
+lvl = 3
 caps = 0
 ig = #
 
 [11]
-1 = "POWER BIND"
-2 = "SUPER FART"
+1 = "BLOOD ELF BEBE"
+2 = "ROBO BEBE"
 lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "BOUNTY HUNTER KYLE"
-2 = "SHARPSHOOTER SHELLY"
-lvl = 2
+1 = "DRAGONSLAYER RED"
+2 = "CHANGELING RED"
+lvl = 1
 caps = 0
 ig = #
 
