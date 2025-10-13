@@ -1,84 +1,84 @@
 [1]
-1 = "PURIFY"
-2 = "LAVA!"
-lvl = 4
+1 = "INCAN CRAIG"
+2 = "SATAN"
+lvl = 1
 caps = 0
 ig = #
 
 [2]
-1 = "WAR HERO NED"
-2 = "COMMANDER HAT"
-lvl = 2
+1 = "SUPER FART"
+2 = "FREEZE RAY"
+lvl = 4
 caps = 0
 ig = #
 
 [3]
 1 = "BIG MESQUITE MURPH"
-2 = "A.W.E.S.O.M.-O 4000"
+2 = "MR. SLAVE EXECUTIONER"
 lvl = 2
 caps = 0
 ig = #
 
 [4]
-1 = "HUNTER JIMBO"
-2 = "ZEN CARTMAN"
+1 = "MICHAEL"
+2 = "STARVIN' MARVIN"
 lvl = 3
 caps = 0
 ig = #
 
 [5]
-1 = "STORYTELLER JIMMY"
-2 = "CLASSI"
-lvl = 2
+1 = "WITCH GARRISON"
+2 = "ALIEN QUEEN RED"
+lvl = 3
 caps = 0
 ig = #
 
 [6]
-1 = "STAN THE GREAT"
-2 = "CAPTAIN DIABETES"
-lvl = 4
-caps = 0
-ig = #
-
-[7]
-1 = "THE MASTER NINJEW"
-2 = "MECHA TIMMY"
+1 = "HENRIETTA"
+2 = "MANBEARPIG"
 lvl = 1
 caps = 0
 ig = #
 
+[7]
+1 = "PETE"
+2 = "WOODLAND CRITTERS"
+lvl = 2
+caps = 0
+ig = #
+
 [8]
-1 = "PALADIN BUTTERS"
-2 = "PRINCESS KENNY"
+1 = "STAN THE GREAT"
+2 = "FRIAR JIMMY"
 lvl = 4
 caps = 0
 ig = #
 
 [9]
-1 = "FIREBALL"
-2 = "THE CHOMPER"
-lvl = 3
+1 = "PURIFY"
+2 = "POISON"
+lvl = 4
 caps = 0
 ig = #
 
 [10]
-1 = "GENERAL DISARRAY"
-2 = "DWARF ENGINEER DOUGIE"
-lvl = 3
+1 = "PROFESSOR CHAOS"
+2 = "HERMES KENNY"
+lvl = 2
 caps = 0
 ig = #
 
 [11]
-1 = "BLOOD ELF BEBE"
-2 = "ROBO BEBE"
+1 = "FIRKLE"
+2 = "RAT SWARM"
 lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "DRAGONSLAYER RED"
-2 = "CHANGELING RED"
-lvl = 1
+1 = "PIRATE SHIP TIMMY"
+2 = "ALTERNATE HUMAN KITE"
+lvl = 3
 caps = 0
 ig = #
 
