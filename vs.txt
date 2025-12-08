@@ -1,83 +1,83 @@
 [1]
-1 = "PRINCESS KENNY"
-2 = "SMUGGLER IKE"
-lvl = 4
-caps = 0
-ig = #
-
-[2]
-1 = "BIG MESQUITE MURPH"
-2 = "A.W.E.S.O.M.-O 4000"
-lvl = 2
-caps = 0
-ig = #
-
-[3]
-1 = "PIRATE SHIP TIMMY"
-2 = "BUCCANEER BEBE"
-lvl = 3
-caps = 0
-ig = #
-
-[4]
-1 = "SATAN"
-2 = "MANBEARPIG"
+1 = "DRAGONSLAYER RED"
+2 = "WITCH DOCTOR TOKEN"
 lvl = 1
 caps = 0
 ig = #
 
-[5]
-1 = "POSEIDON STAN"
-2 = "CALAMITY HEIDI"
-lvl = 4
-caps = 0
-ig = #
-
-[6]
-1 = "MR. MACKEY"
-2 = "PIGEON GANG"
-lvl = 4
-caps = 0
-ig = #
-
-[7]
-1 = "MIND CONTROL"
-2 = "LIGHTNING BOLT"
-lvl = 3
-caps = 0
-ig = #
-
-[8]
+[2]
 1 = "RAT SWARM"
 2 = "DECKHAND BUTTERS"
 lvl = 4
 caps = 0
 ig = #
 
-[9]
-1 = "THE MASTER NINJEW"
-2 = "INCAN CRAIG"
-lvl = 1
-caps = 0
-ig = #
-
-[10]
-1 = "HOOKHAND CLYDE"
-2 = "SWASHBUCKLER RED"
+[3]
+1 = "WAR HERO NED"
+2 = "CITY WOK GUY"
 lvl = 2
 caps = 0
 ig = #
 
+[4]
+1 = "POISON"
+2 = "SUPER FART"
+lvl = 4
+caps = 0
+ig = #
+
+[5]
+1 = "SATAN"
+2 = "MANBEARPIG"
+lvl = 1
+caps = 0
+ig = #
+
+[6]
+1 = "COW STAMPEDE"
+2 = "LE BARD JIMMY"
+lvl = 4
+caps = 0
+ig = #
+
+[7]
+1 = "CATAPULT TIMMY"
+2 = "TERRANCE MEPHESTO"
+lvl = 3
+caps = 0
+ig = #
+
+[8]
+1 = "GUNSLINGER KYLE"
+2 = "ROBO BEBE"
+lvl = 4
+caps = 0
+ig = #
+
+[9]
+1 = "CHICKEN COOP"
+2 = "COCK MAGIC"
+lvl = 2
+caps = 0
+ig = #
+
+[10]
+1 = "HUNTER JIMBO"
+2 = "SCUZZLEBUTT"
+lvl = 3
+caps = 0
+ig = #
+
 [11]
-1 = "CAPTAIN WENDY"
-2 = "ALTERNATE HUMAN KITE"
+1 = "FOUR-ASSED MONKEY"
+2 = "UNDERPANTS GNOMES"
 lvl = 3
 caps = 0
 ig = #
 
 [12]
-1 = "COCK MAGIC"
-2 = "ARROWSTORM"
+1 = "DOGPOO"
+2 = "PRESIDENT GARRISON"
 lvl = 2
 caps = 0
 ig = #
