@@ -1,84 +1,84 @@
 [1]
+1 = "MEMBER BERRIES"
+2 = "CHICKEN COOP"
+lvl = 2
+caps = 0
+ig = #
+
+[2]
+1 = "MINT-BERRY CRUNCH"
+2 = "MEDUSA BEBE"
+lvl = 1
+caps = 0
+ig = #
+
+[3]
+1 = "LAVA!"
+2 = "PURIFY"
+lvl = 4
+caps = 0
+ig = #
+
+[4]
+1 = "SCOUT IKE"
+2 = "RAT SWARM"
+lvl = 4
+caps = 0
+ig = #
+
+[5]
+1 = "SHIELDMAIDEN WENDY"
+2 = "WITCH DOCTOR TOKEN"
+lvl = 1
+caps = 0
+ig = #
+
+[6]
+1 = "COW STAMPEDE"
+2 = "STAN THE GREAT"
+lvl = 4
+caps = 0
+ig = #
+
+[7]
+1 = "LE BARD JIMMY"
+2 = "TERRANCE AND PHILLIP"
+lvl = 4
+caps = 0
+ig = #
+
+[8]
+1 = "WONDER TWEEK"
+2 = "CATAPULT TIMMY"
+lvl = 3
+caps = 0
+ig = #
+
+[9]
+1 = "PROFESSOR CHAOS"
+2 = "CHOIRBOY BUTTERS"
+lvl = 2
+caps = 0
+ig = #
+
+[10]
 1 = "SCUZZLEBUTT"
 2 = "PC PRINCIPAL"
 lvl = 3
 caps = 0
 ig = #
 
-[2]
-1 = "POISON"
-2 = "ARROWSTORM"
-lvl = 4
-caps = 0
-ig = #
-
-[3]
-1 = "CYBORG KENNY"
-2 = "PROFESSOR CHAOS"
-lvl = 2
-caps = 0
-ig = #
-
-[4]
-1 = "ENERGY STAFF"
-2 = "CYBORG TOWER"
-lvl = 3
-caps = 0
-ig = #
-
-[5]
-1 = "STAN THE GREAT"
-2 = "PIGEON GANG"
-lvl = 4
-caps = 0
-ig = #
-
-[6]
-1 = "FRONTIER BRADLEY"
-2 = "POPE TIMMY"
-lvl = 2
-caps = 0
-ig = #
-
-[7]
-1 = "RAT SWARM"
-2 = "BANDITA SALLY"
-lvl = 4
-caps = 0
-ig = #
-
-[8]
-1 = "BIG MESQUITE MURPH"
-2 = "A.W.E.S.O.M.-O 4000"
-lvl = 2
-caps = 0
-ig = #
-
-[9]
-1 = "SIZZLER STUART"
-2 = "SHIELDMAIDEN WENDY"
-lvl = 1
-caps = 0
-ig = #
-
-[10]
-1 = "INCAN CRAIG"
-2 = "MEDUSA BEBE"
-lvl = 1
-caps = 0
-ig = #
-
 [11]
-1 = "MR. MACKEY"
-2 = "TERRANCE AND PHILLIP"
-lvl = 4
+1 = "ALTERNATE HUMAN KITE"
+2 = "DARK MAGE CRAIG"
+lvl = 3
 caps = 0
 ig = #
 
 [12]
-1 = "KYLE OF THE DROW ELVES"
-2 = "MEDICINE WOMAN SHARON"
-lvl = 3
+1 = "SANTA CLAUS"
+2 = "MR. SLAVE EXECUTIONER"
+lvl = 2
 caps = 0
 ig = #
 
