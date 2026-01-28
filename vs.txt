@@ -1,84 +1,84 @@
 [1]
-1 = "MEDICINE WOMAN SHARON"
-2 = "BIG GAY AL"
+1 = "OFFICER BARBRADY"
+2 = "PC PRINCIPAL"
 lvl = 3
 caps = 0
 ig = #
 
 [2]
-1 = "COCK MAGIC"
-2 = "ARROWSTORM"
-lvl = 2
-caps = 0
-ig = #
-
-[3]
-1 = "GRAND WIZARD CARTMAN"
-2 = "MANBEARPIG"
+1 = "MYSTERION"
+2 = "INUIT KENNY"
 lvl = 1
 caps = 0
 ig = #
 
+[3]
+1 = "FASTPASS"
+2 = "ROGUE TOKEN"
+lvl = 2
+caps = 0
+ig = #
+
 [4]
-1 = "TUPPERWARE"
-2 = "STAN THE GREAT"
+1 = "BLOOD ELF BEBE"
+2 = "MARINE CRAIG"
 lvl = 4
 caps = 0
 ig = #
 
 [5]
-1 = "PRINCESS KENNY"
-2 = "SMUGGLER IKE"
-lvl = 4
+1 = "WONDER TWEEK"
+2 = "WARBOY TWEEK"
+lvl = 3
 caps = 0
 ig = #
 
 [6]
-1 = "PALADIN BUTTERS"
-2 = "RAT SWARM"
-lvl = 4
+1 = "ALIEN QUEEN RED"
+2 = "NELLY"
+lvl = 3
 caps = 0
 ig = #
 
 [7]
-1 = "SANTA CLAUS"
-2 = "MR. SLAVE EXECUTIONER"
+1 = "GIZMO IKE"
+2 = "CHOIRBOY BUTTERS"
 lvl = 2
 caps = 0
 ig = #
 
 [8]
-1 = "CALAMITY HEIDI"
-2 = "PIGEON GANG"
+1 = "PURIFY"
+2 = "POISON"
 lvl = 4
 caps = 0
 ig = #
 
 [9]
-1 = "THE AMAZINGLY RANDY"
-2 = "HUMAN KITE"
-lvl = 2
+1 = "S-WOW TITTYBANG"
+2 = "FUTURE RANDY"
+lvl = 1
 caps = 0
 ig = #
 
 [10]
-1 = "WONDER TWEEK"
-2 = "BUCCANEER BEBE"
-lvl = 3
+1 = "COW STAMPEDE"
+2 = "ALIEN CLYDE"
+lvl = 4
 caps = 0
 ig = #
 
 [11]
-1 = "CASTLE DEFENDER"
-2 = "FIREBALL"
-lvl = 3
+1 = "POWER BIND"
+2 = "SUPER FART"
+lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "STAN OF MANY MOONS"
-2 = "CHANGELING RED"
-lvl = 1
+1 = "BOUNTY HUNTER KYLE"
+2 = "SHARPSHOOTER SHELLY"
+lvl = 2
 caps = 0
 ig = #
 
