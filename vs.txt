@@ -1,28 +1,28 @@
 [1]
-1 = "ICE SNIPER WENDY"
-2 = "BIG GAY AL"
-lvl = 3
-caps = 0
-ig = #
-
-[2]
-1 = "INUIT KENNY"
-2 = "MR. HANKEY"
+1 = "DRAGONSLAYER RED"
+2 = "WITCH DOCTOR TOKEN"
 lvl = 1
 caps = 0
 ig = #
 
+[2]
+1 = "RAT SWARM"
+2 = "DECKHAND BUTTERS"
+lvl = 4
+caps = 0
+ig = #
+
 [3]
-1 = "POPE TIMMY"
-2 = "WOODLAND CRITTERS"
+1 = "WAR HERO NED"
+2 = "CITY WOK GUY"
 lvl = 2
 caps = 0
 ig = #
 
 [4]
-1 = "YOUTH PASTOR CRAIG"
-2 = "DARK MAGE CRAIG"
-lvl = 3
+1 = "POISON"
+2 = "SUPER FART"
+lvl = 4
 caps = 0
 ig = #
 
@@ -34,51 +34,51 @@ caps = 0
 ig = #
 
 [6]
-1 = "CHOIRBOY BUTTERS"
-2 = "PROFESSOR CHAOS"
-lvl = 2
-caps = 0
-ig = #
-
-[7]
-1 = "TUPPERWARE"
+1 = "COW STAMPEDE"
 2 = "LE BARD JIMMY"
 lvl = 4
 caps = 0
 ig = #
 
-[8]
-1 = "A.W.E.S.O.M.-O 4000"
-2 = "SANTA CLAUS"
-lvl = 2
-caps = 0
-ig = #
-
-[9]
-1 = "UNHOLY COMBUSTION"
-2 = "MIND CONTROL"
+[7]
+1 = "CATAPULT TIMMY"
+2 = "TERRANCE MEPHESTO"
 lvl = 3
 caps = 0
 ig = #
 
-[10]
-1 = "CALAMITY HEIDI"
-2 = "PIGEON GANG"
+[8]
+1 = "GUNSLINGER KYLE"
+2 = "ROBO BEBE"
 lvl = 4
+caps = 0
+ig = #
+
+[9]
+1 = "CHICKEN COOP"
+2 = "COCK MAGIC"
+lvl = 2
+caps = 0
+ig = #
+
+[10]
+1 = "HUNTER JIMBO"
+2 = "SCUZZLEBUTT"
+lvl = 3
 caps = 0
 ig = #
 
 [11]
-1 = "TERRANCE AND PHILLIP"
-2 = "CAPTAIN DIABETES"
-lvl = 4
+1 = "FOUR-ASSED MONKEY"
+2 = "UNDERPANTS GNOMES"
+lvl = 3
 caps = 0
 ig = #
 
 [12]
-1 = "FREEZE RAY"
-2 = "LAVA!"
-lvl = 4
+1 = "DOGPOO"
+2 = "PRESIDENT GARRISON"
+lvl = 2
 caps = 0
 ig = #
 
