@@ -1,83 +1,83 @@
 [1]
-1 = "MARY JANE RANDY"
-2 = "SEXY NUN RANDY"
+1 = "COMMANDER HAT"
+2 = "WOODLAND CRITTERS"
 lvl = 2
 caps = 0
 ig = #
 
 [2]
-1 = "IMP TWEEK"
-2 = "SWASHBUCKLER RED"
+1 = "WAR HERO NED"
+2 = "PETE"
 lvl = 2
 caps = 0
 ig = #
 
 [3]
-1 = "INUIT KENNY"
-2 = "MR. HANKEY"
-lvl = 1
-caps = 0
-ig = #
-
-[4]
-1 = "WARBOY TWEEK"
-2 = "WONDER TWEEK"
-lvl = 3
-caps = 0
-ig = #
-
-[5]
-1 = "HYPERDRIVE"
-2 = "THE CHOMPER"
-lvl = 3
-caps = 0
-ig = #
-
-[6]
-1 = "HOOKHAND CLYDE"
-2 = "MARCUS"
-lvl = 2
-caps = 0
-ig = #
-
-[7]
-1 = "LAVA!"
+1 = "POWER BIND"
 2 = "SUPER FART"
 lvl = 4
 caps = 0
 ig = #
 
-[8]
-1 = "ZEN CARTMAN"
-2 = "PC PRINCIPAL"
+[4]
+1 = "MOSQUITO"
+2 = "MICHAEL"
 lvl = 3
 caps = 0
 ig = #
 
-[9]
-1 = "MANBEARPIG"
-2 = "S-WOW TITTYBANG"
+[5]
+1 = "HUNTER JIMBO"
+2 = "SCUZZLEBUTT"
+lvl = 3
+caps = 0
+ig = #
+
+[6]
+1 = "VISITORS"
+2 = "ALTERNATE HUMAN KITE"
+lvl = 3
+caps = 0
+ig = #
+
+[7]
+1 = "GRAND WIZARD CARTMAN"
+2 = "HENRIETTA"
 lvl = 1
 caps = 0
 ig = #
 
-[10]
-1 = "BLOOD ELF BEBE"
-2 = "ROBO BEBE"
+[8]
+1 = "ARCHANGEL BRADLEY"
+2 = "TOWELIE"
+lvl = 2
+caps = 0
+ig = #
+
+[9]
+1 = "PURIFY"
+2 = "FREEZE RAY"
 lvl = 4
+caps = 0
+ig = #
+
+[10]
+1 = "DRAGONSLAYER RED"
+2 = "CHANGELING RED"
+lvl = 1
 caps = 0
 ig = #
 
 [11]
 1 = "SCOUT IKE"
-2 = "RAT SWARM"
+2 = "FIRKLE"
 lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "ANGEL WENDY"
-2 = "GUNSLINGER KYLE"
+1 = "RAT SWARM"
+2 = "BANDITA SALLY"
 lvl = 4
 caps = 0
 ig = #
