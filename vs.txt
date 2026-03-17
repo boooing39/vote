@@ -1,84 +1,84 @@
 [1]
-1 = "COMMANDER HAT"
-2 = "WOODLAND CRITTERS"
-lvl = 2
+1 = "PRINCESS KENNY"
+2 = "SMUGGLER IKE"
+lvl = 4
 caps = 0
 ig = #
 
 [2]
-1 = "WAR HERO NED"
-2 = "PETE"
+1 = "BIG MESQUITE MURPH"
+2 = "A.W.E.S.O.M.-O 4000"
 lvl = 2
 caps = 0
 ig = #
 
 [3]
-1 = "POWER BIND"
-2 = "SUPER FART"
-lvl = 4
+1 = "PIRATE SHIP TIMMY"
+2 = "BUCCANEER BEBE"
+lvl = 3
 caps = 0
 ig = #
 
 [4]
-1 = "MOSQUITO"
-2 = "MICHAEL"
-lvl = 3
+1 = "SATAN"
+2 = "MANBEARPIG"
+lvl = 1
 caps = 0
 ig = #
 
 [5]
-1 = "HUNTER JIMBO"
-2 = "SCUZZLEBUTT"
-lvl = 3
+1 = "POSEIDON STAN"
+2 = "CALAMITY HEIDI"
+lvl = 4
 caps = 0
 ig = #
 
 [6]
-1 = "VISITORS"
-2 = "ALTERNATE HUMAN KITE"
-lvl = 3
+1 = "MR. MACKEY"
+2 = "PIGEON GANG"
+lvl = 4
 caps = 0
 ig = #
 
 [7]
-1 = "GRAND WIZARD CARTMAN"
-2 = "HENRIETTA"
-lvl = 1
+1 = "MIND CONTROL"
+2 = "LIGHTNING BOLT"
+lvl = 3
 caps = 0
 ig = #
 
 [8]
-1 = "ARCHANGEL BRADLEY"
-2 = "TOWELIE"
-lvl = 2
+1 = "RAT SWARM"
+2 = "DECKHAND BUTTERS"
+lvl = 4
 caps = 0
 ig = #
 
 [9]
-1 = "PURIFY"
-2 = "FREEZE RAY"
-lvl = 4
-caps = 0
-ig = #
-
-[10]
-1 = "DRAGONSLAYER RED"
-2 = "CHANGELING RED"
+1 = "THE MASTER NINJEW"
+2 = "INCAN CRAIG"
 lvl = 1
 caps = 0
 ig = #
 
+[10]
+1 = "HOOKHAND CLYDE"
+2 = "SWASHBUCKLER RED"
+lvl = 2
+caps = 0
+ig = #
+
 [11]
-1 = "SCOUT IKE"
-2 = "FIRKLE"
-lvl = 4
+1 = "ALTERNATE HUMAN KITE"
+2 = "CAPTAIN WENDY"
+lvl = 3
 caps = 0
 ig = #
 
 [12]
-1 = "RAT SWARM"
-2 = "BANDITA SALLY"
-lvl = 4
+1 = "COCK MAGIC"
+2 = "ARROWSTORM"
+lvl = 2
 caps = 0
 ig = #
 
