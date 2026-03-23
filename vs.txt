@@ -1,83 +1,83 @@
 [1]
-1 = "PRINCESS KENNY"
-2 = "SMUGGLER IKE"
-lvl = 4
+1 = "SPACE WARRIOR TOKEN"
+2 = "DWARF KING CLYDE"
+lvl = 3
 caps = 0
 ig = #
 
 [2]
-1 = "BIG MESQUITE MURPH"
-2 = "A.W.E.S.O.M.-O 4000"
+1 = "SANTA CLAUS"
+2 = "MR. SLAVE EXECUTIONER"
 lvl = 2
 caps = 0
 ig = #
 
 [3]
-1 = "PIRATE SHIP TIMMY"
-2 = "BUCCANEER BEBE"
+1 = "SCUZZLEBUTT"
+2 = "OFFICER BARBRADY"
 lvl = 3
 caps = 0
 ig = #
 
 [4]
-1 = "SATAN"
-2 = "MANBEARPIG"
-lvl = 1
+1 = "ROBIN TWEEK"
+2 = "OUTLAW TWEEK"
+lvl = 4
 caps = 0
 ig = #
 
 [5]
-1 = "POSEIDON STAN"
-2 = "CALAMITY HEIDI"
+1 = "GUNSLINGER KYLE"
+2 = "ROBO BEBE"
 lvl = 4
 caps = 0
 ig = #
 
 [6]
-1 = "MR. MACKEY"
-2 = "PIGEON GANG"
-lvl = 4
-caps = 0
-ig = #
-
-[7]
-1 = "MIND CONTROL"
-2 = "LIGHTNING BOLT"
-lvl = 3
-caps = 0
-ig = #
-
-[8]
-1 = "RAT SWARM"
-2 = "DECKHAND BUTTERS"
-lvl = 4
-caps = 0
-ig = #
-
-[9]
-1 = "THE MASTER NINJEW"
-2 = "INCAN CRAIG"
+1 = "STAN OF MANY MOONS"
+2 = "SHIELDMAIDEN WENDY"
 lvl = 1
 caps = 0
 ig = #
 
-[10]
-1 = "HOOKHAND CLYDE"
-2 = "SWASHBUCKLER RED"
-lvl = 2
+[7]
+1 = "PURIFY"
+2 = "FREEZE RAY"
+lvl = 4
 caps = 0
 ig = #
 
-[11]
-1 = "ALTERNATE HUMAN KITE"
-2 = "CAPTAIN WENDY"
+[8]
+1 = "INUIT KENNY"
+2 = "MR. HANKEY"
+lvl = 1
+caps = 0
+ig = #
+
+[9]
+1 = "FOUR-ASSED MONKEY"
+2 = "CANADIAN KNIGHT IKE"
 lvl = 3
 caps = 0
 ig = #
 
+[10]
+1 = "POISON"
+2 = "LAVA!"
+lvl = 4
+caps = 0
+ig = #
+
+[11]
+1 = "SORCERESS LIANE"
+2 = "CLASSI"
+lvl = 2
+caps = 0
+ig = #
+
 [12]
-1 = "COCK MAGIC"
-2 = "ARROWSTORM"
+1 = "DARK ANGEL RED"
+2 = "COMMANDER HAT"
 lvl = 2
 caps = 0
 ig = #
