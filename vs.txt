@@ -1,84 +1,84 @@
 [1]
-1 = "MYSTERION"
-2 = "INUIT KENNY"
-lvl = 1
+1 = "ZEN CARTMAN"
+2 = "SHERIFF CARTMAN"
+lvl = 3
 caps = 0
 ig = #
 
 [2]
-1 = "CAPTAIN DIABETES"
-2 = "CALAMITY HEIDI"
-lvl = 4
+1 = "POCAHONTAS RANDY"
+2 = "ROGUE TOKEN"
+lvl = 2
 caps = 0
 ig = #
 
 [3]
-1 = "CALL GIRL"
-2 = "INCAN CRAIG"
-lvl = 1
+1 = "TRANSMOGRIFY"
+2 = "ARROWSTORM"
+lvl = 2
 caps = 0
 ig = #
 
 [4]
-1 = "RAT SWARM"
-2 = "BANDITA SALLY"
-lvl = 4
+1 = "ENFORCER JIMMY"
+2 = "SWORDSMAN GARRISON"
+lvl = 3
 caps = 0
 ig = #
 
 [5]
-1 = "HUNTER JIMBO"
-2 = "OFFICER BARBRADY"
-lvl = 3
+1 = "TOOLSHED"
+2 = "PROGRAM STAN"
+lvl = 2
 caps = 0
 ig = #
 
 [6]
-1 = "MOSQUITO"
-2 = "NELLY"
-lvl = 3
+1 = "INUIT KENNY"
+2 = "MR. HANKEY"
+lvl = 1
 caps = 0
 ig = #
 
 [7]
-1 = "FIREBALL"
-2 = "LIGHTNING BOLT"
-lvl = 3
+1 = "ANGEL WENDY"
+2 = "MARINE CRAIG"
+lvl = 4
 caps = 0
 ig = #
 
 [8]
-1 = "SUPER FART"
-2 = "LAVA!"
+1 = "ROBIN TWEEK"
+2 = "OUTLAW TWEEK"
 lvl = 4
 caps = 0
 ig = #
 
 [9]
-1 = "COW STAMPEDE"
-2 = "TUPPERWARE"
+1 = "PRIEST MAXI"
+2 = "MIMSY"
 lvl = 4
 caps = 0
 ig = #
 
 [10]
-1 = "SHARPSHOOTER SHELLY"
-2 = "WOODLAND CRITTERS"
-lvl = 2
+1 = "PALADIN BUTTERS"
+2 = "DECKHAND BUTTERS"
+lvl = 4
 caps = 0
 ig = #
 
 [11]
-1 = "WAR HERO NED"
-2 = "HUMAN KITE"
-lvl = 2
+1 = "MINT-BERRY CRUNCH"
+2 = "MEDUSA BEBE"
+lvl = 1
 caps = 0
 ig = #
 
 [12]
-1 = "THE COON"
-2 = "SANTA CLAUS"
-lvl = 2
+1 = "CASTLE DEFENDER"
+2 = "ENERGY STAFF"
+lvl = 3
 caps = 0
 ig = #
 
