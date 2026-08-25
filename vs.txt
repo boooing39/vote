@@ -1,84 +1,84 @@
 [1]
-1 = "SCUZZLEBUTT"
-2 = "PC PRINCIPAL"
-lvl = 3
-caps = 0
-ig = #
-
-[2]
-1 = "ARCHANGEL BRADLEY"
-2 = "TOWELIE"
-lvl = 2
-caps = 0
-ig = #
-
-[3]
 1 = "INCAN CRAIG"
-2 = "MEDUSA BEBE"
+2 = "SATAN"
 lvl = 1
 caps = 0
 ig = #
 
-[4]
-1 = "ANGEL WENDY"
-2 = "GUNSLINGER KYLE"
+[2]
+1 = "FREEZE RAY"
+2 = "SUPER FART"
 lvl = 4
 caps = 0
 ig = #
 
+[3]
+1 = "BIG MESQUITE MURPH"
+2 = "MR. SLAVE EXECUTIONER"
+lvl = 2
+caps = 0
+ig = #
+
+[4]
+1 = "MICHAEL"
+2 = "STARVIN' MARVIN"
+lvl = 3
+caps = 0
+ig = #
+
 [5]
-1 = "LIGHTNING BOLT"
-2 = "REGENERATION"
+1 = "WITCH GARRISON"
+2 = "ALIEN QUEEN RED"
 lvl = 3
 caps = 0
 ig = #
 
 [6]
-1 = "DARK ANGEL RED"
+1 = "HENRIETTA"
+2 = "MANBEARPIG"
+lvl = 1
+caps = 0
+ig = #
+
+[7]
+1 = "PETE"
 2 = "WOODLAND CRITTERS"
 lvl = 2
 caps = 0
 ig = #
 
-[7]
-1 = "COW STAMPEDE"
-2 = "TERRANCE AND PHILLIP"
-lvl = 4
-caps = 0
-ig = #
-
 [8]
-1 = "RAT SWARM"
-2 = "BANDITA SALLY"
+1 = "STAN THE GREAT"
+2 = "FRIAR JIMMY"
 lvl = 4
 caps = 0
 ig = #
 
 [9]
-1 = "BIG MESQUITE MURPH"
-2 = "SANTA CLAUS"
-lvl = 2
+1 = "PURIFY"
+2 = "POISON"
+lvl = 4
 caps = 0
 ig = #
 
 [10]
-1 = "FIREBALL"
-2 = "HALLELUJAH"
-lvl = 3
+1 = "PROFESSOR CHAOS"
+2 = "HERMES KENNY"
+lvl = 2
 caps = 0
 ig = #
 
 [11]
-1 = "SCOUT IKE"
-2 = "SMUGGLER IKE"
+1 = "FIRKLE"
+2 = "RAT SWARM"
 lvl = 4
 caps = 0
 ig = #
 
 [12]
-1 = "STAN OF MANY MOONS"
-2 = "WITCH DOCTOR TOKEN"
-lvl = 1
+1 = "PIRATE SHIP TIMMY"
+2 = "ALTERNATE HUMAN KITE"
+lvl = 3
 caps = 0
 ig = #
 
